@@ -1,497 +1,928 @@
-#EXTM3U
-#EXTINF:-1,AR - ART AFLAM 1
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/984.ts
-#EXTINF:-1,AR - ART AFLAM 2
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/983.ts
-#EXTINF:-1,AR - ART CINEMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/982.ts
-#EXTINF:-1,AR - ART HEKAYAT 1
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/981.ts
-#EXTINF:-1,AR - ART HEKAYAT 2
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/980.ts
-#EXTINF:-1,MYHD PREMIUM - Cinemachi Kidz HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31291.ts
-#EXTINF:-1,MYHD PREMIUM - BBC English HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31292.ts
-#EXTINF:-1,MYHD PREMIUM - CNN HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31289.ts
-#EXTINF:-1,MYHD PREMIUM - DW HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31286.ts
-#EXTINF:-1,MYHD PREMIUM - Animal Planet HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31293.ts
-#EXTINF:-1,MYHD PREMIUM - Discovery SC HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31288.ts
-#EXTINF:-1,MYHD PREMIUM - PLANET EARTH HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31253.ts
-#EXTINF:-1,MYHD PREMIUM - FIX FOXI HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31283.ts
-#EXTINF:-1,MYHD PREMIUM - FILM BOX HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31284.ts
-#EXTINF:-1,MYHD PREMIUM - FOX REWAYAT HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31278.ts
-#EXTINF:-1,MYHD PREMIUM - FOX CRIME HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31281.ts
-#EXTINF:-1,MYHD PREMIUM - FX HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31277.ts
-#EXTINF:-1,MYHD PREMIUM - STAR MOVIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31252.ts
-#EXTINF:-1,MYHD PREMIUM - STAR WORLD HD https://iptv.zone
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31251.ts
-#EXTINF:-1,MYHD PREMIUM - Cinemachi Movies HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31290.ts
-#EXTINF:-1,MYHD PREMIUM - Docubox HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31287.ts
-#EXTINF:-1,MYHD PREMIUM - Fight Box HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31285.ts
-#EXTINF:-1,MYHD PREMIUM - FOX ACTION MOVIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31282.ts
-#EXTINF:-1,MYHD PREMIUM - FOX FAMILY MOVIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31280.ts
-#EXTINF:-1,MYHD PREMIUM - FOX LIFE HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31279.ts
-#EXTINF:-1,MYHD PREMIUM - GUEST HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31276.ts
-#EXTINF:-1,MYHD PREMIUM - GULLI BIL ARABIE HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31275.ts
-#EXTINF:-1,MYHD PREMIUM - ITV CHOICE HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31274.ts
-#EXTINF:-1,MYHD PREMIUM - LAAB WA JAD HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31273.ts
-#EXTINF:-1,MYHD PREMIUM - MYZEN HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31256.ts
-#EXTINF:-1,MYHD PREMIUM - NAHAR DRAMA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31255.ts
-#EXTINF:-1,MYHD PREMIUM - NAHAR ONE HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31254.ts
-#EXTINF:-1,MYHD PREMIUM - MUSIC ALWAYS HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31260.ts
-#EXTINF:-1,MYHD PREMIUM - MUSIC TROPICAL HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31259.ts
-#EXTINF:-1,MYHD PREMIUM - MUSIC24 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31258.ts
-#EXTINF:-1,MYHD PREMIUM - WOW SPORT HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31250.ts
-#EXTINF:-1,MYHD PREMIUM - MY CINEMA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31257.ts
-#EXTINF:-1,AR - ROTANA AFLAM HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21268.ts
-#EXTINF:-1,AR - ROTANA CINEMA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21267.ts
-#EXTINF:-1,AR - ROTANA CLASSIC HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21266.ts
-#EXTINF:-1,AR - ROTANA KHALIJIA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21265.ts
-#EXTINF:-1,AR - ROTANA MASRIYA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21264.ts
-#EXTINF:-1,AR - ROTANA MUSIC HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21263.ts
-#EXTINF:-1,AR - ROTANA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/966.ts
-#EXTINF:-1,AR - ROTANA CINEMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/964.ts
-#EXTINF:-1,AR - ROTANA CINEMA KSA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/963.ts
-#EXTINF:-1,AR - ROTANA CLASSIC
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/962.ts
-#EXTINF:-1,AR - ROTANA CLIP
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/965.ts
-#EXTINF:-1,AR - ROTANA DRAMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/961.ts
-#EXTINF:-1,AR - ROTANA KHALIJIAH
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/960.ts
-#EXTINF:-1,AR - ABUDHABI SPORTS 1 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22039.ts
-#EXTINF:-1,AR - ABUDHABI SPORTS 2 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22038.ts
-#EXTINF:-1,AR - ABUDHABI SPORTS 3 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22037.ts
-#EXTINF:-1,AR - ABUDHABI SPORTS 4 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22036.ts
-#EXTINF:-1,AR - ABUDHABI SPORTS 5 HD https://iptv.zone
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22035.ts
-#EXTINF:-1,AR - ABUDHABI SPORTS 6 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22034.ts
-#EXTINF:-1,##### BEIN MOVIES #####
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27980.ts
-#EXTINF:-1,AR - 4K - BEIN MOVIES 1 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27974.ts
-#EXTINF:-1,AR - 4K - BEIN MOVIES 2 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27973.ts
-#EXTINF:-1,AR - 4K - BEIN MOVIES 3 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27972.ts
-#EXTINF:-1,AR - 4K - BEIN MOVIES 4 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27971.ts
-#EXTINF:-1,AR - BEIN AMC HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27954.ts
-#EXTINF:-1,AR - BEIN FOX ACTION MOVIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27948.ts
-#EXTINF:-1,AR - BEIN FOX FAMILY MOVIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27947.ts
-#EXTINF:-1,##### BEIN MOVIES 4K #####
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27975.ts
-#EXTINF:-1,AR - BEIN MOVIES 1 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27979.ts
-#EXTINF:-1,AR - BEIN MOVIES 2 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27978.ts
-#EXTINF:-1,AR - BEIN MOVIES 3 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27977.ts
-#EXTINF:-1,AR - BEIN MOVIES 4 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27976.ts
-#EXTINF:-1,##### BEIN SERIAL & MOVIES #####
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27970.ts
-#EXTINF:-1,AR - BEIN SERIES 1 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27969.ts
-#EXTINF:-1,AR - BEIN SERIES 2 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27968.ts
-#EXTINF:-1,AR - BEIN BARAEM HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27964.ts
-#EXTINF:-1,AR - BEIN DRAMA 1 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27967.ts
-#EXTINF:-1,AR - BEIN FOX HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27960.ts
-#EXTINF:-1,AR - BEIN BEJUNIOR
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27963.ts
-#EXTINF:-1,AR - BEIN BOOMERANG HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27953.ts
-#EXTINF:-1,AR - BEIN CARTON NETWORK HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27962.ts
-#EXTINF:-1,AR - BEIN FATAFEAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27961.ts
-#EXTINF:-1,AR - BEIN JEEM HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27958.ts
-#EXTINF:-1,AR - BEIN DISCOVERY KIDS HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27952.ts
-#EXTINF:-1,AR - BEIN DISCOVERY LIFE HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27951.ts
-#EXTINF:-1,AR - BEIN DISCOVERY MAX HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27950.ts
-#EXTINF:-1,AR - BEIN DISCOVERY TURBO XTRA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27949.ts
-#EXTINF:-1,AR - BEIN GOURMETHD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27965.ts
-#EXTINF:-1,AR - BEIN HGTV HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27959.ts
-#EXTINF:-1,AR - BEIN NAT GEO
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27957.ts
-#EXTINF:-1,AR - BEIN NAT PEOPLE
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27956.ts
-#EXTINF:-1,AR - BEIN NAT WILD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27955.ts
-#EXTINF:-1,AR - BEIN TRAVEL HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27966.ts
-#EXTINF:-1,AR - SUDAN DABANGA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19151.ts
-#EXTINF:-1,AR - SUDAN DRAMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19150.ts
-#EXTINF:-1,AR - SUDAN MONAWAAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19149.ts
-#EXTINF:-1,AR - SUDAN MUSIC
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19148.ts
-#EXTINF:-1,AR - SUDAN S24
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19157.ts
-#EXTINF:-1,AR - SUDAN SPORT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19147.ts
-#EXTINF:-1,AR - SUDAN TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19146.ts
-#EXTINF:-1,AR - SUDANIA 24 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19145.ts
-#EXTINF:-1,AR - NEELAIN SPORT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19152.ts
-#EXTINF:-1,AR - BLUE NILE
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19153.ts
-#EXTINF:-1,AR - ASHOROOQ TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19154.ts
-#EXTINF:-1,AR - TAYBA ACHBAL
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20955.ts
-#EXTINF:-1,AR - TAYBA QURAN
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19142.ts
-#EXTINF:-1,AR - TAYBA SCHOOL
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19141.ts
-#EXTINF:-1,AR - TAYBA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19140.ts
-#EXTINF:-1,AR - RED SEA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20954.ts
-#EXTINF:-1,AR - SUDAN SPORT HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20950.ts
-#EXTINF:-1,AR - AL GUBA KEDARAH
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20952.ts
-#EXTINF:-1,AR - SOKOR JEDIAN
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20951.ts
-#EXTINF:-1,AR - KASSALA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20948.ts
-#EXTINF:-1,AR - AL HILAL
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20947.ts
-#EXTINF:-1,AR - KHARTOUM
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20946.ts
-#EXTINF:-1,AR - SHAMALIA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20945.ts
-#EXTINF:-1,AR - TARTEEL
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19143.ts
-#EXTINF:-1,AR - AL GEZIRA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19139.ts
-#EXTINF:-1,AR - OSN ART AFLAM 1
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19831.ts
-#EXTINF:-1,AR - OSN ART AFLAM 2
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19830.ts
-#EXTINF:-1,AR - OSN ART CINEMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19829.ts
-#EXTINF:-1,AR - OSN ART HEKAYAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19828.ts
-#EXTINF:-1,AR - OSN ART HEKAYAT 2
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19827.ts
-#EXTINF:-1,OSN2 - OSN NICKELODEON HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31105.ts
-#EXTINF:-1,OSN2 - ART AFLAM 1
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31134.ts
-#EXTINF:-1,OSN2 - ART AFLAM 2
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31133.ts
-#EXTINF:-1,OSN2 - ART CINEMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31132.ts
-#EXTINF:-1,OSN2 - ART HEKAYAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31131.ts
-#EXTINF:-1,OSN2 - ART HEKAYAT 2
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31130.ts
-#EXTINF:-1,OSN2 - OSN YAHALA OULA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31092.ts
-#EXTINF:-1,OSN2 - OSN YAHALA CINEMA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31094.ts
-#EXTINF:-1,OSN2 - OSN YAHALA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31093.ts
-#EXTINF:-1,OSN2 - OSN ALFA MUSALSALAT HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31123.ts
-#EXTINF:-1,OSN2 - OSN ALFA ALFANN HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31128.ts
-#EXTINF:-1,OSN2 - OSN ALFA ALSAFWA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31127.ts
-#EXTINF:-1,OSN2 - OSN ALFA ALYOUM HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31126.ts
-#EXTINF:-1,OSN2 - OSN ALFA CINEMA 1 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31125.ts
-#EXTINF:-1,OSN2 - OSN ALFA CINEMA 2 HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31124.ts
-#EXTINF:-1,OSN2 - OSN ALFA MUSIC NOW HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31122.ts
-#EXTINF:-1,OSN2 - OSN MOVIES KIDS HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31109.ts
-#EXTINF:-1,OSN2 - OSN DISCOVERY HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31120.ts
-#EXTINF:-1,OSN2 - OSN DISCOVERY SC HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31119.ts
-#EXTINF:-1,OSN2 - OSN ANIMAL PLANET HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31121.ts
-#EXTINF:-1,OSN2 - OSN NAT GEO WILD HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31107.ts
-#EXTINF:-1,OSN2 - OSN NAT PEOPLE HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31106.ts
-#EXTINF:-1,OSN2 - OSN HISTORY HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31116.ts
-#EXTINF:-1,OSN2 - OSN TRAVEL HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31096.ts
-#EXTINF:-1,OSN2 - OSN MOVIES ACTION HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31113.ts
-#EXTINF:-1,OSN2 - OSN MOVIES DISNEY HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31112.ts
-#EXTINF:-1,OSN2 - OSN MOVIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31110.ts
-#EXTINF:-1,OSN2 - OSN MOVIES FIRST HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31111.ts
-#EXTINF:-1,OSN2 - OSN MOVIES THRILLER HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31108.ts
-#EXTINF:-1,OSN2 - OSN SERIES COMEDY HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31104.ts
-#EXTINF:-1,OSN2 - OSN SERIES FIRST HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31103.ts
-#EXTINF:-1,OSN2 - OSN SERIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31102.ts
-#EXTINF:-1,OSN2 - OSN STAR MOVIES HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31101.ts
-#EXTINF:-1,OSN2 - OSN STAR WORLD HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31100.ts
-#EXTINF:-1,OSN2 - OSN SYFY HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31099.ts
-#EXTINF:-1,OSN2 - OSN TLC HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31097.ts
-#EXTINF:-1,OSN2 - BEIN OUTDOOR HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31129.ts
-#EXTINF:-1,OSN2 - OSN FIRST HBO HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31117.ts
-#EXTINF:-1,OSN2 - OSN ITV CHOICE
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31115.ts
-#EXTINF:-1,OSN2 - OSN LIVING HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31114.ts
-#EXTINF:-1,OSN2 - OSN DISNEY JUNIOR HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31118.ts
-#EXTINF:-1,OSN2 - OSN TEN SPORT HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31098.ts
-#EXTINF:-1,OSN2 - OSN WWE HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/31095.ts
-#EXTINF:-1,AR - ME SAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/689.ts
-#EXTINF:-1,AR - MIRACLE TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/696.ts
-#EXTINF:-1,AR - AGHAPY TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/694.ts
-#EXTINF:-1,AR - AL HAYAT CRISTIAN
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/690.ts
-#EXTINF:-1,AR - AL KARMA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/695.ts
-#EXTINF:-1,AR - CTV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/688.ts
-#EXTINF:-1,AR - SAT 7 ARABIC
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/692.ts
-#EXTINF:-1,AR - SAT 7 KIDS
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/691.ts
-#EXTINF:-1,AR - AL MALAKOOT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/697.ts
-#EXTINF:-1,AR - AL FADY
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/693.ts
-#EXTINF:-1,AR - AL HORREYA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19160.ts
-#EXTINF:-1,AR - RESALA HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21269.ts
-#EXTINF:-1,AR - AL RESALA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/879.ts
-#EXTINF:-1,AR - AL MAJD 1
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/883.ts
-#EXTINF:-1,AR - AL MAJD 2
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/882.ts
-#EXTINF:-1,AR - AL MAJD 3
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/881.ts
-#EXTINF:-1,AR - AL MAJD 4
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/880.ts
-#EXTINF:-1,AR - AL RAHMA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/884.ts
-#EXTINF:-1,AR - AL-QURAIN
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/633.ts
-#EXTINF:-1,AR - RESALAT AL ISLAM
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/885.ts
-#EXTINF:-1,AR - BIN OUTHAYMINE
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/891.ts
-#EXTINF:-1,AR - DAAWA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/890.ts
-#EXTINF:-1,AR - SAFA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/889.ts
-#EXTINF:-1,AR - TANASOH
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/888.ts
-#EXTINF:-1,AR - MECCA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/878.ts
-#EXTINF:-1,AR - AL HAQIQA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/875.ts
-#EXTINF:-1,AR - AHEL AL QURAN
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/874.ts
-#EXTINF:-1,AR - WESAL
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/873.ts
-#EXTINF:-1,AR - AL SIRAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/872.ts
-#EXTINF:-1,AR - ALAFASY
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/871.ts
-#EXTINF:-1,AR - PALESTINE LIVE
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/617.ts
-#EXTINF:-1,AR - PALESTINE NEWS
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/618.ts
-#EXTINF:-1,AR - PALESTINE SPORT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/619.ts
-#EXTINF:-1,AR - PALESTINE TODAY
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/620.ts
-#EXTINF:-1,AR - PALESTINE TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/616.ts
-#EXTINF:-1,AR - MAAN TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/622.ts
-#EXTINF:-1,AR - AL QUDS
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/621.ts
-#EXTINF:-1,AR - FALASTINIAH TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/615.ts
-#EXTINF:-1,AR - AWDEH TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/614.ts
-#EXTINF:-1,AR - ANNAJAH NBC
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/613.ts
-#EXTINF:-1,AR - AL RAYYAN HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/577.ts
-#EXTINF:-1,AR - AL RAYYAN
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/575.ts
-#EXTINF:-1,AR - QATAR TV HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/574.ts
-#EXTINF:-1,AR - LEBANON TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/780.ts
-#EXTINF:-1,AR - LBC HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21270.ts
-#EXTINF:-1,AR - LBC SAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/779.ts
-#EXTINF:-1,AR - LDC
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/778.ts
-#EXTINF:-1,AR - OTV TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/777.ts
-#EXTINF:-1,AR - MTV LEBANON
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/776.ts
-#EXTINF:-1,AR - MTV LEBANON HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19161.ts
-#EXTINF:-1,AR - NBN LEBANON HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27423.ts
-#EXTINF:-1,AR - FUTURE TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/775.ts
-#EXTINF:-1,AR - AL MAYADEEN
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/928.ts
-#EXTINF:-1,AR - AL MANAR
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/917.ts
-#EXTINF:-1,AR - ALAAN TV LEBANON
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/774.ts
-#EXTINF:-1,AR - AGHANI AGHANI TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/773.ts
-#EXTINF:-1,AR - HEYA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/772.ts
-#EXTINF:-1,AR - AL ASRAR TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/771.ts
-#EXTINF:-1,AR - AL WAAD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/770.ts
-#EXTINF:-1,AR - AL NADA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/769.ts
-#EXTINF:-1,AR - AL JADEED
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/766.ts
-#EXTINF:-1,AR - TELELIBAN TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/763.ts
-#EXTINF:-1,AR - AL QANAT
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/768.ts
-#EXTINF:-1,AR - ANB TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/765.ts
-#EXTINF:-1,AR - MAESTRO
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/762.ts
-#EXTINF:-1,AR - YEMEN SAMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/588.ts
-#EXTINF:-1,AR - YEMEN TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/587.ts
-#EXTINF:-1,AR - YEMEN SHABAB
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/586.ts
-#EXTINF:-1,AR - SUHAIL TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/585.ts
-#EXTINF:-1,AR - SHEBA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/584.ts
-#EXTINF:-1,AR - YEMEN TODAY
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/583.ts
-#EXTINF:-1,AR - ADEN TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/582.ts
-#EXTINF:-1,AR - OMAN TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/580.ts
-#EXTINF:-1,AR - AL ISTIQAMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/579.ts
-#EXTINF:-1,AR - SYRIA DRAMA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/611.ts
-#EXTINF:-1,AR - SYRIA EDUCATION
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/610.ts
-#EXTINF:-1,AR - SYRIA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/608.ts
-#EXTINF:-1,AR - AL EKHBARIYA AL SORIYA
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/609.ts
-#EXTINF:-1,AR - ALYAWM
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20944.ts
-#EXTINF:-1,AR - SYRIA EMMAR
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20943.ts
-#EXTINF:-1,AR - SYRIA FM
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20935.ts
-#EXTINF:-1,AR - SYRIA MEDICAL
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20934.ts
-#EXTINF:-1,AR - SYRIA TV HD
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20942.ts
-#EXTINF:-1,AR - SAMA TV
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/607.ts
-#EXTINF:-1,AR - DORAR
-http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20941.
+#EXTM3U#EXTINF:-1,iPTV 365 BiLGi KANALI
+http://iptv.team1460.com:8080/mustafa123/21042018/869
+#EXTINF:-1,BeIN SPORTS 4K
+http://iptv.team1460.com:8080/mustafa123/21042018/3949
+#EXTINF:-1,BeIN SPORTS UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/450
+#EXTINF:-1,ViP SPOR 2 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/462
+#EXTINF:-1,ViP SPOR 3 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2414
+#EXTINF:-1,ViP SPOR 4 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2415
+#EXTINF:-1,ViP SPOR 1 YEDEK (Macta Acik)
+http://iptv.team1460.com:8080/mustafa123/21042018/5285
+#EXTINF:-1,ViP SPOR 2 YEDEK (Macta Acik)
+http://iptv.team1460.com:8080/mustafa123/21042018/5286
+#EXTINF:-1,ViP SPOR 3 YEDEK (Macta Acik)
+http://iptv.team1460.com:8080/mustafa123/21042018/5287
+#EXTINF:-1,ViP SPOR 4 YEDEK (Macta Acik)
+http://iptv.team1460.com:8080/mustafa123/21042018/1109
+#EXTINF:-1,ViP SPOR 5 YEDEK (Macta Acik)
+http://iptv.team1460.com:8080/mustafa123/21042018/5053
+#EXTINF:-1,BeIN Sports 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1
+#EXTINF:-1,BeIN Sports 2 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2418
+#EXTINF:-1,BeIN Sports 2 SD
+http://iptv.team1460.com:8080/mustafa123/21042018/2
+#EXTINF:-1,BeIN Sports 3 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2419
+#EXTINF:-1,BeIN Sports 3 SD
+http://iptv.team1460.com:8080/mustafa123/21042018/3
+#EXTINF:-1,BeIN Sports 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/5
+#EXTINF:-1,BeIN Sports HD MAX 1
+http://iptv.team1460.com:8080/mustafa123/21042018/1403
+#EXTINF:-1,BeIN Sports HD MAX 2 https://iptv.zone
+http://iptv.team1460.com:8080/mustafa123/21042018/1848
+#EXTINF:-1,S SPORT HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/963
+#EXTINF:-1,S SPORT SD
+http://iptv.team1460.com:8080/mustafa123/21042018/5247
+#EXTINF:-1,BeIN Sports Haber UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/2881
+#EXTINF:-1,TRT SPOR UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/8
+#EXTINF:-1,A SPOR UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/14
+#EXTINF:-1,A SPOR SD
+http://iptv.team1460.com:8080/mustafa123/21042018/3467
+#EXTINF:-1,TiViBUSPOR 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/6
+#EXTINF:-1,TiViBUSPOR 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/448
+#EXTINF:-1,TiViBUSPOR 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1108
+#EXTINF:-1,TiViBUSPOR 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/5248
+#EXTINF:-1,SPOR SMART HD (D-SMART)
+http://iptv.team1460.com:8080/mustafa123/21042018/964
+#EXTINF:-1,EUROSPORT 1 HD (TR)
+http://iptv.team1460.com:8080/mustafa123/21042018/999
+#EXTINF:-1,EUROSPORT 2 HD (TR)
+http://iptv.team1460.com:8080/mustafa123/21042018/1000
+#EXTINF:-1,BJK TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/934
+#EXTINF:-1,FB TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/933
+#EXTINF:-1,GS TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/935
+#EXTINF:-1,BursaSpor TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3243
+#EXTINF:-1,TJK TV
+http://iptv.team1460.com:8080/mustafa123/21042018/2046
+#EXTINF:-1,NBA TV
+http://iptv.team1460.com:8080/mustafa123/21042018/2832
+#EXTINF:-1,TV RELAX
+http://iptv.team1460.com:8080/mustafa123/21042018/10589
+#EXTINF:-1,TRT 4K UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/2833
+#EXTINF:-1,TRT 1 UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/134
+#EXTINF:-1,TRT 1 SD
+http://iptv.team1460.com:8080/mustafa123/21042018/47
+#EXTINF:-1,ATV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/40
+#EXTINF:-1,ATV SD
+http://iptv.team1460.com:8080/mustafa123/21042018/54
+#EXTINF:-1,SHOW TV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/41
+#EXTINF:-1,SHOW TV SD
+http://iptv.team1460.com:8080/mustafa123/21042018/490
+#EXTINF:-1,STAR TV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/42
+#EXTINF:-1,STAR TV SD
+http://iptv.team1460.com:8080/mustafa123/21042018/1015
+#EXTINF:-1,KANAL D UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/43
+#EXTINF:-1,KANAL D SD
+http://iptv.team1460.com:8080/mustafa123/21042018/1016
+#EXTINF:-1,FOX TV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/44
+#EXTINF:-1,FOX TV SD
+http://iptv.team1460.com:8080/mustafa123/21042018/1810
+#EXTINF:-1,TV 8 UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/45
+#EXTINF:-1,TV 8 SD
+http://iptv.team1460.com:8080/mustafa123/21042018/1653
+#EXTINF:-1,TV 8.5 UHD https://iptv.zone
+http://iptv.team1460.com:8080/mustafa123/21042018/1200
+#EXTINF:-1,TV 8.5 SD
+http://iptv.team1460.com:8080/mustafa123/21042018/1819
+#EXTINF:-1,TV 360 UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/126
+#EXTINF:-1,BEYAZ TV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/51
+#EXTINF:-1,BEYAZ TV SD
+http://iptv.team1460.com:8080/mustafa123/21042018/1811
+#EXTINF:-1,KANAL 7 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/380
+#EXTINF:-1,ULKE TV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/1352
+#EXTINF:-1,TV NET HD
+http://iptv.team1460.com:8080/mustafa123/21042018/131
+#EXTINF:-1,Tv2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/258
+#EXTINF:-1,A2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1299
+#EXTINF:-1,FOX CRIME HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3798
+#EXTINF:-1,FOX Life
+http://iptv.team1460.com:8080/mustafa123/21042018/5345
+#EXTINF:-1,FX HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1316
+#EXTINF:-1,TLC HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1343
+#EXTINF:-1,Life Time HD
+http://iptv.team1460.com:8080/mustafa123/21042018/4929
+#EXTINF:-1,BeIN GURME HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1167
+#EXTINF:-1,24 KITCHEN TR
+http://iptv.team1460.com:8080/mustafa123/21042018/2263
+#EXTINF:-1,TURKMENELi TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/5023
+#EXTINF:-1,TRT AVAZ HD
+http://iptv.team1460.com:8080/mustafa123/21042018/286
+#EXTINF:-1,TRT TURK HD
+http://iptv.team1460.com:8080/mustafa123/21042018/53
+#EXTINF:-1,TRT DiYANET
+http://iptv.team1460.com:8080/mustafa123/21042018/116
+#EXTINF:-1,A Para HD
+http://iptv.team1460.com:8080/mustafa123/21042018/4814
+#EXTINF:-1,EKOTURK TV
+http://iptv.team1460.com:8080/mustafa123/21042018/10065
+#EXTINF:-1,Bloomberg HT+
+http://iptv.team1460.com:8080/mustafa123/21042018/168
+#EXTINF:-1,NTV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/62
+#EXTINF:-1,A HABER UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/144
+#EXTINF:-1,TRT HABER UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/135
+#EXTINF:-1,HABERTURK UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/169
+#EXTINF:-1,CNN TURK UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/64
+#EXTINF:-1,TGRT HABER UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/132
+#EXTINF:-1,HABER GLOBAL UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/5463
+#EXTINF:-1,24 TV UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/753
+#EXTINF:-1,HALK TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/65
+#EXTINF:-1,ULUSAL KANAL HD
+http://iptv.team1460.com:8080/mustafa123/21042018/2104
+#EXTINF:-1,BENGU TURK
+http://iptv.team1460.com:8080/mustafa123/21042018/2003
+#EXTINF:-1,AKiT TV
+http://iptv.team1460.com:8080/mustafa123/21042018/1009
+#EXTINF:-1,HABER 61 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3771
+#EXTINF:-1,A NEWS HD
+http://iptv.team1460.com:8080/mustafa123/21042018/2252
+#EXTINF:-1,TRT COCUK UHD
+http://iptv.team1460.com:8080/mustafa123/21042018/58
+#EXTINF:-1,TRT COCUK SD
+http://iptv.team1460.com:8080/mustafa123/21042018/2005
+#EXTINF:-1,Minika GO HD
+http://iptv.team1460.com:8080/mustafa123/21042018/129
+#EXTINF:-1,Minika COCUK HD
+http://iptv.team1460.com:8080/mustafa123/21042018/59
+#EXTINF:-1,COCUK SMART HD
+http://iptv.team1460.com:8080/mustafa123/21042018/69
+#EXTINF:-1,BOOMERANG HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3589
+#EXTINF:-1,Nick JR TR
+http://iptv.team1460.com:8080/mustafa123/21042018/468
+#EXTINF:-1,NICKELODEON HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1281
+#EXTINF:-1,Cartoon Network
+http://iptv.team1460.com:8080/mustafa123/21042018/965
+#EXTINF:-1,DiSNEY XD / CBeebies BBC
+http://iptv.team1460.com:8080/mustafa123/21042018/1970
+#EXTINF:-1,DiSNEY JUNiOR
+http://iptv.team1460.com:8080/mustafa123/21042018/1113
+#EXTINF:-1,DiSNEY CHANNEL
+http://iptv.team1460.com:8080/mustafa123/21042018/1110
+#EXTINF:-1,BABY TV
+http://iptv.team1460.com:8080/mustafa123/21042018/1114
+#EXTINF:-1,AFACAN TV / BABY FIRST
+http://iptv.team1460.com:8080/mustafa123/21042018/4173
+#EXTINF:-1,NiLOYA TV 1
+http://iptv.team1460.com:8080/mustafa123/21042018/3872
+#EXTINF:-1,NiLOYA TV 2
+http://iptv.team1460.com:8080/mustafa123/21042018/3871
+#EXTINF:-1,TiNKY MiNKY KUKULi TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4177
+#EXTINF:-1,CANIM KARDESiM TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4175
+#EXTINF:-1,SEViMLi DOSTLAR TV
+http://iptv.team1460.com:8080/mustafa123/21042018/56
+#EXTINF:-1,RAFADAN TAYFA TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3421
+#EXTINF:-1,MASA iLE KOCA AYI TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4174
+#EXTINF:-1,KELOGLAN TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4176
+#EXTINF:-1,PEPE TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5448
+#EXTINF:-1,MASAL TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4179
+#EXTINF:-1,SEKER HOCA TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4178
+#EXTINF:-1,KIDZ ANIMEZ TR
+http://iptv.team1460.com:8080/mustafa123/21042018/1168
+#EXTINF:-1,ZAROK TV KURDi
+http://iptv.team1460.com:8080/mustafa123/21042018/1340
+#EXTINF:-1,TRT OKUL
+http://iptv.team1460.com:8080/mustafa123/21042018/1769
+#EXTINF:-1,TRT MUZiK HD
+http://iptv.team1460.com:8080/mustafa123/21042018/125
+#EXTINF:-1,KRAL HD POP
+http://iptv.team1460.com:8080/mustafa123/21042018/70
+#EXTINF:-1,POWER TURK TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/304
+#EXTINF:-1,NR ONE TURK HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/120
+#EXTINF:-1,DREAM TURK
+http://iptv.team1460.com:8080/mustafa123/21042018/122
+#EXTINF:-1,MiLYON TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4532
+#EXTINF:-1,MAVi KARADENiZ TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5148
+#EXTINF:-1,TMB TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4348
+#EXTINF:-1,KRAL ARABESK
+http://iptv.team1460.com:8080/mustafa123/21042018/6723
+#EXTINF:-1,KRAL AKUSTiK
+http://iptv.team1460.com:8080/mustafa123/21042018/3769
+#EXTINF:-1,EKiN TURK Tv
+http://iptv.team1460.com:8080/mustafa123/21042018/3768
+#EXTINF:-1,SLOW KARADENiZ
+http://iptv.team1460.com:8080/mustafa123/21042018/3770
+#EXTINF:-1,TRT MUZiK KERKUK TURKULERi
+http://iptv.team1460.com:8080/mustafa123/21042018/9928
+#EXTINF:-1,TRT MUZiK NOSTALJi TSM
+http://iptv.team1460.com:8080/mustafa123/21042018/9926
+#EXTINF:-1,KRAL WORLD HD
+http://iptv.team1460.com:8080/mustafa123/21042018/5439
+#EXTINF:-1,POWER HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1461
+#EXTINF:-1,NR 1 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/1448
+#EXTINF:-1,NR 1 4K
+http://iptv.team1460.com:8080/mustafa123/21042018/7978
+#EXTINF:-1,DREAM TV
+http://iptv.team1460.com:8080/mustafa123/21042018/71
+#EXTINF:-1,ONE HD
+http://iptv.team1460.com:8080/mustafa123/21042018/4645
+#EXTINF:-1,VH1 CLASSIC HD
+http://iptv.team1460.com:8080/mustafa123/21042018/5438
+#EXTINF:-1,KRAL WORLD
+http://iptv.team1460.com:8080/mustafa123/21042018/3767
+#EXTINF:-1,MTV LIVE HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1998
+#EXTINF:-1,MTV MUSIC
+http://iptv.team1460.com:8080/mustafa123/21042018/1362
+#EXTINF:-1,MTV HITS
+http://iptv.team1460.com:8080/mustafa123/21042018/1847
+#EXTINF:-1,MTV ROCKS
+http://iptv.team1460.com:8080/mustafa123/21042018/2072
+#EXTINF:-1,Trace Urban Music
+http://iptv.team1460.com:8080/mustafa123/21042018/1845
+#EXTINF:-1,KANAL 58
+http://iptv.team1460.com:8080/mustafa123/21042018/751
+#EXTINF:-1,ViZYON 58
+http://iptv.team1460.com:8080/mustafa123/21042018/752
+#EXTINF:-1,SRT SiVAS
+http://iptv.team1460.com:8080/mustafa123/21042018/1014
+#EXTINF:-1,BUYUK SiVAS TV
+http://iptv.team1460.com:8080/mustafa123/21042018/8248
+#EXTINF:-1,Tv 52
+http://iptv.team1460.com:8080/mustafa123/21042018/4292
+#EXTINF:-1,KANAL 3
+http://iptv.team1460.com:8080/mustafa123/21042018/3292
+#EXTINF:-1,TV EM
+http://iptv.team1460.com:8080/mustafa123/21042018/2326
+#EXTINF:-1,KON TV
+http://iptv.team1460.com:8080/mustafa123/21042018/2255
+#EXTINF:-1,KONYA 42 TV
+http://iptv.team1460.com:8080/mustafa123/21042018/2325
+#EXTINF:-1,KACKAR TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3412
+#EXTINF:-1,TURAN TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3411
+#EXTINF:-1,CEM TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3476
+#EXTINF:-1,TELE 1
+http://iptv.team1460.com:8080/mustafa123/21042018/3477
+#EXTINF:-1,TV KAYSERI
+http://iptv.team1460.com:8080/mustafa123/21042018/1588
+#EXTINF:-1,KABE TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5437
+#EXTINF:-1,MEDiNE TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5436
+#EXTINF:-1,HiLAL TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5320
+#EXTINF:-1,LALEGUL TV
+http://iptv.team1460.com:8080/mustafa123/21042018/171
+#EXTINF:-1,SEMERKANT TV
+http://iptv.team1460.com:8080/mustafa123/21042018/451
+#EXTINF:-1,TRT KURDI
+http://iptv.team1460.com:8080/mustafa123/21042018/1753
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/73
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://iptv.team1460.com:8080/mustafa123/21042018/454
+#EXTINF:-1,NATIONAL GEO WILD HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/74
+#EXTINF:-1,NAT GEO WILD SD
+http://iptv.team1460.com:8080/mustafa123/21042018/2164
+#EXTINF:-1,NAT GEO PEOPLE HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/1799
+#EXTINF:-1,BBC EARTH HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1094
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptv.team1460.com:8080/mustafa123/21042018/75
+#EXTINF:-1,DMAX HD
+http://iptv.team1460.com:8080/mustafa123/21042018/7
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.team1460.com:8080/mustafa123/21042018/77
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptv.team1460.com:8080/mustafa123/21042018/150
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://iptv.team1460.com:8080/mustafa123/21042018/858
+#EXTINF:-1,IDX HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1812
+#EXTINF:-1,TRT BELGESEL HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/80
+#EXTINF:-1,beIN iZ TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/835
+#EXTINF:-1,VIASAT NATURE / HISTORY (TR)
+http://iptv.team1460.com:8080/mustafa123/21042018/1155
+#EXTINF:-1,SCIENCE&VIE
+http://iptv.team1460.com:8080/mustafa123/21042018/5384
+#EXTINF:-1,HISTORY HD TR
+http://iptv.team1460.com:8080/mustafa123/21042018/932
+#EXTINF:-1,DA VINCI LEARNING HD
+http://iptv.team1460.com:8080/mustafa123/21042018/166
+#EXTINF:-1,DISCOVERY DTX
+http://iptv.team1460.com:8080/mustafa123/21042018/1797
+#EXTINF:-1,SiNEMA TV (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/744
+#EXTINF:-1,SiNEMA TV KOMEDi (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/4917
+#EXTINF:-1,SiNEMA TV AiLE (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1568
+#EXTINF:-1,SiNEMA TV YERLi (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/4349
+#EXTINF:-1,SiNEMA TV AKSiYON (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1564
+#EXTINF:-1,SiNEMA TV 1001 (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/3089
+#EXTINF:-1,TiViBU TURK (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/10634
+#EXTINF:-1,TiViBU TURK 2 (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/10635
+#EXTINF:-1,TiViBU ViZYON HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1565
+#EXTINF:-1,TiViBU ViZYON 2 HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1843
+#EXTINF:-1,TiViBU ADRENALiN HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1337
+#EXTINF:-1,TiViBU ADRENALiN 2 HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1336
+#EXTINF:-1,beIN BOX OFFICE 1 (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1962
+#EXTINF:-1,beIN BOX OFFICE 2 (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1963
+#EXTINF:-1,beIN BOX OFFICE 3 (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1964
+#EXTINF:-1,beIN Movies Turk HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/3087
+#EXTINF:-1,beIN Movies Premiere HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/3085
+#EXTINF:-1,beIN Movies Premiere 2 HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/2324
+#EXTINF:-1,beIN Movies Action HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1563
+#EXTINF:-1,beIN Movies Action 2 HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/2039
+#EXTINF:-1,beIN Movies Stars HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/3086
+#EXTINF:-1,beIN Movies Comedy HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/12
+#EXTINF:-1,beIN Movies Family HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/2057
+#EXTINF:-1,beIN Series Comedy HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/3088
+#EXTINF:-1,beIN Series Sci-Fi HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1795
+#EXTINF:-1,beIN Series Vice HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/3090
+#EXTINF:-1,MOViESMART TURK (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1982
+#EXTINF:-1,MOViESMART PREMiUM (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1983
+#EXTINF:-1,MOViESMART PREMiUM 2 HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1984
+#EXTINF:-1,MOViESMART PLATiN (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1985
+#EXTINF:-1,MOViESMART PLATiN 2 HD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1986
+#EXTINF:-1,MOViESMART ACTiON (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1989
+#EXTINF:-1,MOViESMART GOLD (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1987
+#EXTINF:-1,MOViESMART FAMiLY (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1356
+#EXTINF:-1,MOViESMART CLASSIC (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1990
+#EXTINF:-1,MOViESMART FEST (CANLI)
+http://iptv.team1460.com:8080/mustafa123/21042018/1991
+#EXTINF:-1,MOVIE AKSIYON 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1459
+#EXTINF:-1,MOVIE AKSIYON 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3870
+#EXTINF:-1,Captain Movies 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/2045
+#EXTINF:-1,Captain Movies 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3091
+#EXTINF:-1,Captain Movies 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3475
+#EXTINF:-1,MOVIE SiNEMA AKSIYON 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11087
+#EXTINF:-1,MOVIE SiNEMA AKSIYON 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11091
+#EXTINF:-1,MOVIE SiNEMA VIZYON
+http://iptv.team1460.com:8080/mustafa123/21042018/11085
+#EXTINF:-1,MOVIE SiNEMA KOMEDI
+http://iptv.team1460.com:8080/mustafa123/21042018/11088
+#EXTINF:-1,SiNEBOX ViZYON HD
+http://iptv.team1460.com:8080/mustafa123/21042018/23
+#EXTINF:-1,SiNEBOX PREMiUM HD
+http://iptv.team1460.com:8080/mustafa123/21042018/32
+#EXTINF:-1,SiNEBOX PREMiUM 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1329
+#EXTINF:-1,SiNEBOX AKSiYON HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1327
+#EXTINF:-1,SiNEBOX AKSiYON 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1328
+#EXTINF:-1,SiNEBOX AiLE
+http://iptv.team1460.com:8080/mustafa123/21042018/1330
+#EXTINF:-1,SiNEBOX DRAMA HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1332
+#EXTINF:-1,SiNEBOX KOMEDi
+http://iptv.team1460.com:8080/mustafa123/21042018/1333
+#EXTINF:-1,SiNEBOX BiILiMKURGU HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1331
+#EXTINF:-1,SiNEBOX FANTASTiK
+http://iptv.team1460.com:8080/mustafa123/21042018/1334
+#EXTINF:-1,FILMBOX PREMIER HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11099
+#EXTINF:-1,FILMBOX PREMIER 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11109
+#EXTINF:-1,FILMBOX AKSIYON HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11100
+#EXTINF:-1,FILMBOX AKSIYON 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11101
+#EXTINF:-1,FILMBOX AILE HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11102
+#EXTINF:-1,FILMBOX AILE 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11103
+#EXTINF:-1,FILMBOX TURK HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11098
+#EXTINF:-1,FILMBOX KOMEDI HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11104
+#EXTINF:-1,FILMBOX DRAMA HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11106
+#EXTINF:-1,FILMBOX COCUK HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11108
+#EXTINF:-1,FILMBOX FANTASTIK HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11105
+#EXTINF:-1,FILMBOX BILIMKURGU HD
+http://iptv.team1460.com:8080/mustafa123/21042018/11107
+#EXTINF:-1,FiLM BOX PREMIER
+http://iptv.team1460.com:8080/mustafa123/21042018/11084
+#EXTINF:-1,FiLM BOX ACTION
+http://iptv.team1460.com:8080/mustafa123/21042018/11089
+#EXTINF:-1,FiLM BOX AiLE
+http://iptv.team1460.com:8080/mustafa123/21042018/11083
+#EXTINF:-1,FiLM BOX TURK
+http://iptv.team1460.com:8080/mustafa123/21042018/11086
+#EXTINF:-1,FiLM BOX KOMEDI
+http://iptv.team1460.com:8080/mustafa123/21042018/11090
+#EXTINF:-1,FiLM BOX BILIMKURGU
+http://iptv.team1460.com:8080/mustafa123/21042018/11092
+#EXTINF:-1,FiLM BOX GERİLiM
+http://iptv.team1460.com:8080/mustafa123/21042018/11082
+#EXTINF:-1,METROPOL HD AKSiYON
+http://iptv.team1460.com:8080/mustafa123/21042018/1806
+#EXTINF:-1,METROPOL HD KOMEDi
+http://iptv.team1460.com:8080/mustafa123/21042018/1357
+#EXTINF:-1,METROPOL HD AiLE
+http://iptv.team1460.com:8080/mustafa123/21042018/1979
+#EXTINF:-1,METROPOL DRAMA HD
+http://iptv.team1460.com:8080/mustafa123/21042018/9950
+#EXTINF:-1,METROPOL HD BiLiM KURGU
+http://iptv.team1460.com:8080/mustafa123/21042018/1355
+#EXTINF:-1,METROPOL FANTASTiK HD
+http://iptv.team1460.com:8080/mustafa123/21042018/9951
+#EXTINF:-1,ViP CiNEMA TURK 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/749
+#EXTINF:-1,ViP CiNEMA TURK 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/805
+#EXTINF:-1,ViP CiNEMA TURK 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/18
+#EXTINF:-1,ViP CiNEMA TURK 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1968
+#EXTINF:-1,ViP CiNEMA TURK 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1980
+#EXTINF:-1,ViP CiNEMA TURK 6 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1813
+#EXTINF:-1,ViP CiNEMA TURK 7 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/10587
+#EXTINF:-1,ViP YESiLCAM 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1179
+#EXTINF:-1,ViP YESiLCAM 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/34
+#EXTINF:-1,ViP YESiLCAM 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1181
+#EXTINF:-1,ViP YESiLCAM 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1960
+#EXTINF:-1,ViP YESiLCAM 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1961
+#EXTINF:-1,ViP YESiLCAM 6 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1966
+#EXTINF:-1,ViP YESiLCAM 7 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1995
+#EXTINF:-1,ViP YESiLCAM KEMAL SUNAL TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4894
+#EXTINF:-1,ViP YESiLCAM SENER SEN TV
+http://iptv.team1460.com:8080/mustafa123/21042018/1342
+#EXTINF:-1,ViP YESiLCAM YILMAZ GUNEY
+http://iptv.team1460.com:8080/mustafa123/21042018/10588
+#EXTINF:-1,ViP ANiMASYON 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1178
+#EXTINF:-1,ViP ANiMASYON 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/36
+#EXTINF:-1,ViP ANiMASYON 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1965
+#EXTINF:-1,ViP ANiMASYON 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1976
+#EXTINF:-1,ViP ANiMASYON 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1977
+#EXTINF:-1,ViP ANiMASYON 6 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1996
+#EXTINF:-1,ViP ANiMASYON 7 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1798
+#EXTINF:-1,FiLM HD iNFO
+http://iptv.team1460.com:8080/mustafa123/21042018/9929
+#EXTINF:-1,FiLM HD 1
+http://iptv.team1460.com:8080/mustafa123/21042018/9930
+#EXTINF:-1,FiLM HD 2
+http://iptv.team1460.com:8080/mustafa123/21042018/9931
+#EXTINF:-1,FiLM HD 3
+http://iptv.team1460.com:8080/mustafa123/21042018/9932
+#EXTINF:-1,FiLM HD 4
+http://iptv.team1460.com:8080/mustafa123/21042018/9933
+#EXTINF:-1,FiLM HD 5
+http://iptv.team1460.com:8080/mustafa123/21042018/9934
+#EXTINF:-1,FiLM HD 6
+http://iptv.team1460.com:8080/mustafa123/21042018/9935
+#EXTINF:-1,FiLM HD 7
+http://iptv.team1460.com:8080/mustafa123/21042018/9936
+#EXTINF:-1,FiLM HD 8
+http://iptv.team1460.com:8080/mustafa123/21042018/9937
+#EXTINF:-1,FiLM HD 9
+http://iptv.team1460.com:8080/mustafa123/21042018/9938
+#EXTINF:-1,FiLM HD 10
+http://iptv.team1460.com:8080/mustafa123/21042018/9939
+#EXTINF:-1,FiLM HD 11
+http://iptv.team1460.com:8080/mustafa123/21042018/9940
+#EXTINF:-1,FiLM HD 12
+http://iptv.team1460.com:8080/mustafa123/21042018/9941
+#EXTINF:-1,FiLM HD 13
+http://iptv.team1460.com:8080/mustafa123/21042018/9942
+#EXTINF:-1,FiLM HD 14
+http://iptv.team1460.com:8080/mustafa123/21042018/9943
+#EXTINF:-1,FiLM HD 15
+http://iptv.team1460.com:8080/mustafa123/21042018/9944
+#EXTINF:-1,FiLM HD 16
+http://iptv.team1460.com:8080/mustafa123/21042018/9945
+#EXTINF:-1,FiLM HD 17
+http://iptv.team1460.com:8080/mustafa123/21042018/9946
+#EXTINF:-1,FiLM HD 18
+http://iptv.team1460.com:8080/mustafa123/21042018/9947
+#EXTINF:-1,FiLM HD 19
+http://iptv.team1460.com:8080/mustafa123/21042018/9948
+#EXTINF:-1,FiLM HD 20
+http://iptv.team1460.com:8080/mustafa123/21042018/9949
+#EXTINF:-1,SLV ACTiON
+http://iptv.team1460.com:8080/mustafa123/21042018/384
+#EXTINF:-1,ViP CiNEMA 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/415
+#EXTINF:-1,ViP CiNEMA 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/956
+#EXTINF:-1,ViP CiNEMA 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/30
+#EXTINF:-1,ViP CiNEMA 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/407
+#EXTINF:-1,ViP CiNEMA 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/412
+#EXTINF:-1,ViP CiNEMA 6 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/746
+#EXTINF:-1,ViP CiNEMA 7 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/955
+#EXTINF:-1,ViP CiNEMA 8 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/410
+#EXTINF:-1,ViP CiNEMA 9 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/351
+#EXTINF:-1,ViP CiNEMA 10 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/22
+#EXTINF:-1,ViP KORKU 1 HD (+18)
+http://iptv.team1460.com:8080/mustafa123/21042018/29
+#EXTINF:-1,ViP KORKU 2 HD (+18)
+http://iptv.team1460.com:8080/mustafa123/21042018/28
+#EXTINF:-1,ViP KORKU 3 HD (+18)
+http://iptv.team1460.com:8080/mustafa123/21042018/1981
+#EXTINF:-1,ViP KORKU 4 HD (+18)
+http://iptv.team1460.com:8080/mustafa123/21042018/1988
+#EXTINF:-1,LOCA 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/503
+#EXTINF:-1,LOCA 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/504
+#EXTINF:-1,LOCA 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/505
+#EXTINF:-1,SALON 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/675
+#EXTINF:-1,SALON 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/674
+#EXTINF:-1,SALON 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/673
+#EXTINF:-1,AZ: iDMAN TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3595
+#EXTINF:-1,AZ: ARB Gunes Channel
+http://iptv.team1460.com:8080/mustafa123/21042018/3601
+#EXTINF:-1,AZ: Space channel
+http://iptv.team1460.com:8080/mustafa123/21042018/3598
+#EXTINF:-1,AZ: ARB Ulduz
+http://iptv.team1460.com:8080/mustafa123/21042018/3600
+#EXTINF:-1,AZ: AZ TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3588
+#EXTINF:-1,AZ: Azad Azerbaycan
+http://iptv.team1460.com:8080/mustafa123/21042018/3591
+#EXTINF:-1,AZ: ARB KAPAZ
+http://iptv.team1460.com:8080/mustafa123/21042018/5356
+#EXTINF:-1,AZ: ATV
+http://iptv.team1460.com:8080/mustafa123/21042018/5351
+#EXTINF:-1,AZ: ATV 2
+http://iptv.team1460.com:8080/mustafa123/21042018/5352
+#EXTINF:-1,AZ: ATV 4
+http://iptv.team1460.com:8080/mustafa123/21042018/5355
+#EXTINF:-1,AZ: CAN AZERBAYCAN
+http://iptv.team1460.com:8080/mustafa123/21042018/5353
+#EXTINF:-1,AZ: LALE
+http://iptv.team1460.com:8080/mustafa123/21042018/5354
+#EXTINF:-1,AZ: M TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5350
+#EXTINF:-1,AZ: MEDENiYET TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5349
+#EXTINF:-1,A TV
+http://iptv.team1460.com:8080/mustafa123/21042018/5146
+#EXTINF:-1,AZ: CBC channel
+http://iptv.team1460.com:8080/mustafa123/21042018/3603
+#EXTINF:-1,AZ: NAXCiVAN TV
+http://iptv.team1460.com:8080/mustafa123/21042018/4126
+#EXTINF:-1,AZ: CBC SPORT HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3594
+#EXTINF:-1,AZ: XEZER
+http://iptv.team1460.com:8080/mustafa123/21042018/3593
+#EXTINF:-1,AZ: Dalga channel
+http://iptv.team1460.com:8080/mustafa123/21042018/3602
+#EXTINF:-1,AZ: DUNYA CHANNEL
+http://iptv.team1460.com:8080/mustafa123/21042018/3597
+#EXTINF:-1,AZ: ARB CHANNEL
+http://iptv.team1460.com:8080/mustafa123/21042018/3599
+#EXTINF:-1,AZ: ICTIMAI TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3590
+#EXTINF:-1,AZ: LiDER TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3592
+#EXTINF:-1,AZ: Qafqaz TV
+http://iptv.team1460.com:8080/mustafa123/21042018/3596
+#EXTINF:-1,AZ: ARB 24 channel
+http://iptv.team1460.com:8080/mustafa123/21042018/3604
+#EXTINF:-1,Fashion WORLD TV
+http://iptv.team1460.com:8080/mustafa123/21042018/1796
+#EXTINF:-1,FR: beIN SPORTS 1 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/638
+#EXTINF:-1,FR: beIN SPORTS 2 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/683
+#EXTINF:-1,FR: beIN SPORTS 3 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/684
+#EXTINF:-1,FR: beIN SPORTS 4 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2272
+#EXTINF:-1,FR: beIN SPORTS 5 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2273
+#EXTINF:-1,FR: beIN SPORTS 6 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2274
+#EXTINF:-1,FR: beIN SPORTS 7 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2275
+#EXTINF:-1,FR: beIN SPORTS 8 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2276
+#EXTINF:-1,FR: beIN SPORTS 9 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2277
+#EXTINF:-1,FR: beIN SPORTS 10 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/2278
+#EXTINF:-1,FR: MEZZO
+http://iptv.team1460.com:8080/mustafa123/21042018/5383
+#EXTINF:-1,BEINSPORT 1 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/215
+#EXTINF:-1,BEINSPORT 2 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/216
+#EXTINF:-1,BEINSPORT 3 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/217
+#EXTINF:-1,BEINSPORT 4 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/218
+#EXTINF:-1,BEINSPORT 5 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/219
+#EXTINF:-1,BEINSPORT 6 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/220
+#EXTINF:-1,BEINSPORT 7 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/221
+#EXTINF:-1,BEINSPORT 8 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/222
+#EXTINF:-1,BEINSPORT 9 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/223
+#EXTINF:-1,BEINSPORT 10 HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/224
+#EXTINF:-1,Sport Klub 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/515
+#EXTINF:-1,Sport Klub 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/517
+#EXTINF:-1,Sport Klub 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/516
+#EXTINF:-1,Sport Klub 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/2268
+#EXTINF:-1,Sport Klub 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/2269
+#EXTINF:-1,Sport Klub 6 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/2270
+#EXTINF:-1,UK: SKY SPORT 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/94
+#EXTINF:-1,UK: SKY SPORT 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/95
+#EXTINF:-1,UK: SKY SPORT 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/96
+#EXTINF:-1,UK: SKY SPORT 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/97
+#EXTINF:-1,UK: SKY SPORT 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/98
+#EXTINF:-1,BT SPORT 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/100
+#EXTINF:-1,BT SPORT 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/101
+#EXTINF:-1,ARENA SPORT 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/90
+#EXTINF:-1,ARENA SPORT 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/91
+#EXTINF:-1,ARENA SPORT 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/92
+#EXTINF:-1,ARENA SPORT 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/93
+#EXTINF:-1,ARENA SPORT 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1278
+#EXTINF:-1,Fox Sports 1 Eredivisie
+http://iptv.team1460.com:8080/mustafa123/21042018/183
+#EXTINF:-1,Fox Sports 2 Eredivisie
+http://iptv.team1460.com:8080/mustafa123/21042018/184
+#EXTINF:-1,Fox Sports 3 Eredivisie
+http://iptv.team1460.com:8080/mustafa123/21042018/185
+#EXTINF:-1,Fox Sports 4 Eredivisie
+http://iptv.team1460.com:8080/mustafa123/21042018/650
+#EXTINF:-1,PORTUGUESE: Sport TV 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/519
+#EXTINF:-1,PORTUGUESE: Sport TV 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/518
+#EXTINF:-1,PORTUGUESE: Sport TV 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/669
+#EXTINF:-1,IT: Premium Sport HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1312
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1305
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1856
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1313
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1314
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1306
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1307
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1308
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1309
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1310
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1311
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/633
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/634
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/635
+#EXTINF:-1,RO: Digi Sport 1
+http://iptv.team1460.com:8080/mustafa123/21042018/614
+#EXTINF:-1,RO: Digi Sport 2
+http://iptv.team1460.com:8080/mustafa123/21042018/609
+#EXTINF:-1,RO: Digi Sport 3
+http://iptv.team1460.com:8080/mustafa123/21042018/608
+#EXTINF:-1,RO: LOOK PLUS
+http://iptv.team1460.com:8080/mustafa123/21042018/4941
+#EXTINF:-1,RO: LOOK TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/4942
+#EXTINF:-1,DE: DAZN BAR 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/5311
+#EXTINF:-1,DE: DAZN BAR 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/5312
+#EXTINF:-1,DE: Sky Sport News HD+
+http://iptv.team1460.com:8080/mustafa123/21042018/5231
+#EXTINF:-1,DE: SKY BUNDESLIGA HD
+http://iptv.team1460.com:8080/mustafa123/21042018/86
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/623
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/624
+#EXTINF:-1,Sky Germany BUNDESLIGA 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1095
+#EXTINF:-1,Sky Germany BUNDESLIGA 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1096
+#EXTINF:-1,Sky Germany BUNDESLIGA 3 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1097
+#EXTINF:-1,Sky Germany BUNDESLIGA 4 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1098
+#EXTINF:-1,Sky Germany BUNDESLIGA 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1099
+#EXTINF:-1,Sky Germany BUNDESLIGA 6 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1100
+#EXTINF:-1,Sky Germany BUNDESLIGA 7 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1101
+#EXTINF:-1,Sky Germany BUNDESLIGA 8 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1102
+#EXTINF:-1,Sky Germany BUNDESLIGA 9 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1103
+#EXTINF:-1,Sky Germany BUNDESLIGA 10 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1104
+#EXTINF:-1,DE: EURO SPORT 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1642
+#EXTINF:-1,DE: EURO SPORT 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1643
+#EXTINF:-1,DE: EUROSPORT 2 HD EXTRA
+http://iptv.team1460.com:8080/mustafa123/21042018/5403
+#EXTINF:-1,DE: SPORT 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/2962
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://iptv.team1460.com:8080/mustafa123/21042018/3293
+#EXTINF:-1,DE: 3 SAT HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1680
+#EXTINF:-1,DE: TELE 5 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1659
+#EXTINF:-1,DE: AXN HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1658
+#EXTINF:-1,DE: Das Erste
+http://iptv.team1460.com:8080/mustafa123/21042018/1681
+#EXTINF:-1,DE: HR HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1666
+#EXTINF:-1,DE: Kinowelt TV HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1668
+#EXTINF:-1,DE: KABEL 1 CLASSIC
+http://iptv.team1460.com:8080/mustafa123/21042018/1657
+#EXTINF:-1,DE: KABEL 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1656
+#EXTINF:-1,DE: ORF 1 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1660
+#EXTINF:-1,DE: ORF 2 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1661
+#EXTINF:-1,DE: ORF 3
+http://iptv.team1460.com:8080/mustafa123/21042018/1669
+#EXTINF:-1,DE: Prosieben HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1655
+#EXTINF:-1,DE: RTL CRIME
+http://iptv.team1460.com:8080/mustafa123/21042018/1684
+#EXTINF:-1,DE: RTL LIVING
+http://iptv.team1460.com:8080/mustafa123/21042018/1685
+#EXTINF:-1,DE: RTL Passion HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1683
+#EXTINF:-1,DE: RTL YOU
+http://iptv.team1460.com:8080/mustafa123/21042018/1682
+#EXTINF:-1,DE: N24 HD
+http://iptv.team1460.com:8080/mustafa123/21042018/1667
+#EXTINF:-1,DE: SiXX
+http://iptv.team1460.com:8080/mustafa123/21042018/1664
+#EXTINF:-1,DE: Cartoon Network
+http://iptv.team1460.com:8080/mustafa123/21042018/1677
