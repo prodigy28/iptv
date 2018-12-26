@@ -1,479 +1,2469 @@
 #EXTM3U
-#EXTINF:-1,OSN-ART-Aflam-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1
-#EXTINF:-1,OSN-ART-Aflam-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2
-#EXTINF:-1,OSN-ART-Cinema-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5
-#EXTINF:-1,OSN-ART-Hekayat-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/3
-#EXTINF:-1,OSN-ART-Hekayat-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4
-#EXTINF:-1,OSN-Cinema-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/13
-#EXTINF:-1,OSN-Discovery-Science-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/8
-#EXTINF:-1,OSN-STAR-Movies-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/19
-#EXTINF:-1,OSN-Animal-Planet-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/11
-#EXTINF:-1,OSN-STAR-WORLD-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/18
-#EXTINF:-1,Bein-Movies_1_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/46
-#EXTINF:-1,Bein-Movies_2_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/47
-#EXTINF:-1,Bein-Movies_3_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/878
-#EXTINF:-1,Bein-Movies_4_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1088
-#EXTINF:-1,BeinSport_1_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/36
-#EXTINF:-1,BeinSport_2_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/37
-#EXTINF:-1,BeinSport_3_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/38
-#EXTINF:-1,BeinSport_4_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/39
-#EXTINF:-1,BeinSport_5_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/40
-#EXTINF:-1,BeinSport_6_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/41
-#EXTINF:-1,BeinSport_7_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/42
-#EXTINF:-1,BeinSport_8_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/43
-#EXTINF:-1,BeinSport_9_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/44
-#EXTINF:-1,BeinSport_10_HD_FULL_1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/45
-#EXTINF:-1,AR=MBC-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/865
-#EXTINF:-1,AR=MBC-2
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/85
-#EXTINF:-1,AR=MBC-3
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/86
-#EXTINF:-1,AR=MBC-4
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/87
-#EXTINF:-1,AR=MBC-Action
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/81
-#EXTINF:-1,AR=MBC-Action-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1411
-#EXTINF:-1,AR=MBC-Bollywood
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/82
-#EXTINF:-1,AR=MBC-Bollywood-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1349
-#EXTINF:-1,AR=MBC-Drama
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/80
-#EXTINF:-1,AR=MBC-Drama-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/902
-#EXTINF:-1,AR=MBC-Masr
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/78
-#EXTINF:-1,AR=MBC-Masr-2
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/79
-#EXTINF:-1,AR=MBC-Max
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/83
-#EXTINF:-1,AR=MBC-Max-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1412
-#EXTINF:-1,AR=MBC-Varity-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2456
-#EXTINF:-1,AR=Nile-Cinema
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/100
-#EXTINF:-1,AR=Nile-Comedy
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/97
-#EXTINF:-1,AR=Nile-Drama
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/101
-#EXTINF:-1,AR=Nile-Family
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/98
-#EXTINF:-1,AR=Nile-Life
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/99
-#EXTINF:-1,AR=Nile-News
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2116
-#EXTINF:-1,AR=Nile-Sport
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/102
-#EXTINF:-1,AR=Nile-TV
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2985
-#EXTINF:-1,AR=OTV
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/564
-#EXTINF:-1,AR=Palestine-Alyawm
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/235
-#EXTINF:-1,AR=Panorama-Drama
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/111
-#EXTINF:-1,AR=Panorama-Drama-2
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/109
-#EXTINF:-1,AR=Panorama-Film
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/107
-#EXTINF:-1,AR=Panorama-Food
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/206
-#EXTINF:-1,AR=Peace-TV
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1165
-#EXTINF:-1,AR=Qatar
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/562
-#EXTINF:-1,AR=Quest-Arabiya
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2895
-#EXTINF:-1,AR=Rotana-Aflam
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/408
-#EXTINF:-1,AR=Rotana-Cinema
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/92
-#EXTINF:-1,AR=Rotana-Cinema-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2987
-#EXTINF:-1,AR=Rotana-Classic
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/94
-#EXTINF:-1,AR=Rotana-Classic-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2988
-#EXTINF:-1,AR=Rotana-Clip
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/95
-#EXTINF:-1,AR=Rotana-Clip-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2992
-#EXTINF:-1,AR=Rotana-Drama
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/96
-#EXTINF:-1,AR=Rotana-Drama-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2990
-#EXTINF:-1,AR=Rotana-Khalijia
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/141
-#EXTINF:-1,AR=Rotana-Khalijia-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2989
-#EXTINF:-1,AR=Rotana-Music
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/398
-#EXTINF:-1,AR=Space-Toon-arabic
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/152
-#EXTINF:-1,FR=Discovery_Science_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2849
-#EXTINF:-1,FR=Discovery-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/296
-#EXTINF:-1,FR=Disney-Channel+1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2836
-#EXTINF:-1,FR=Disney-XD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2835
-#EXTINF:-1,FR=Entertainment
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/3175
-#EXTINF:-1,FR=Equidia-Live-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2855
-#EXTINF:-1,FR=EuroNews
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/3173
-#EXTINF:-1,FR=EuroSport-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1148
-#EXTINF:-1,FR=EuroSport-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1149
-#EXTINF:-1,FR=France-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/310
-#EXTINF:-1,FR=France-24
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/3176
-#EXTINF:-1,FR=France-3-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/307
-#EXTINF:-1,FR=France-4-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/645
-#EXTINF:-1,FR=France-5-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/646
-#EXTINF:-1,FR=France-O-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/294
-#EXTINF:-1,FR=Game-One-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2834
-#EXTINF:-1,FR=Gulli-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/299
-#EXTINF:-1,FR=HD1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2854
-#EXTINF:-1,FR=Histoire_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/857
-#EXTINF:-1,FR=InfoSport-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2847
-#EXTINF:-1,FR=L'EQUIPE-21
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2833
-#EXTINF:-1,FR=M6-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/297
-#EXTINF:-1,FR=M6-Music-IHD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1562
-#EXTINF:-1,FR=Mangas
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2846
-#EXTINF:-1,FR=National Geographic-Wild-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/640
-#EXTINF:-1,FR=National-Geographic-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/298
-#EXTINF:-1,FR=Nickelodeon
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2842
-#EXTINF:-1,FR=NRJ-12-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1146
-#EXTINF:-1,FR=NT1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/859
-#EXTINF:-1,FR=Numero-23-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1145
-#EXTINF:-1,FR=Paramount-Channel-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2829
-#EXTINF:-1,FR=Paris-Premiere-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/855
-#EXTINF:-1,FR=Planete-A-and-E-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/309
-#EXTINF:-1,FR=Planete-CI-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/856
-#EXTINF:-1,FR=Planete-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/308
-#EXTINF:-1,FR=RMC-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1564
-#EXTINF:-1,FR=RTL-9
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/3177
-#EXTINF:-1,FR=Science-&-VIE
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2844
-#EXTINF:-1,FR=Serie-Club
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/861
-#EXTINF:-1,FR=SFR-Sport-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2819
-#EXTINF:-1,FR=SFR-Sport-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2818
-#EXTINF:-1,FR=SFR-Sport-3-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2817
-#EXTINF:-1,FR=Syfy-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/641
-#EXTINF:-1,FR=TCM_Cinema_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2830
-#EXTINF:-1,FR=TéléToon
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2857
-#EXTINF:-1,FR=Teva-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/462
-#EXTINF:-1,FR=TF1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/644
-#EXTINF:-1,FR=TMC
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/860
-#EXTINF:-1,FR=Toute-L'Histoire
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2827
-#EXTINF:-1,UK=Setanta-Sports-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/723
-#EXTINF:-1,UK=SKY CINEMA HITS HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5170
-#EXTINF:-1,UK=SKY Living
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5211
-#EXTINF:-1,UK=Sky Movies Grates
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5209
-#EXTINF:-1,UK=SKY MOVIES SC-FI HORROR
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5169
-#EXTINF:-1,UK=Sky Movies Thriller
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5210
-#EXTINF:-1,UK=Sky One
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5206
-#EXTINF:-1,UK=Sky QUEST
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5174
-#EXTINF:-1,UK=Sky QUEST RED
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5173
-#EXTINF:-1,UK=Sky Two
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5205
-#EXTINF:-1,UK=Sky_Sports_Action_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/270
-#EXTINF:-1,UK=Sky_Sports_Arena_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/871
-#EXTINF:-1,UK=Sky_Sports_Cricket_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/269
-#EXTINF:-1,UK=Sky_Sports_F1_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/422
-#EXTINF:-1,UK=Sky_Sports_Football_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/803
-#EXTINF:-1,UK=Sky_Sports_Golf_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/425
-#EXTINF:-1,UK=Sky_Sports_Main_Event_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/268
-#EXTINF:-1,UK=Sky_Sports_Mix_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2261
-#EXTINF:-1,UK=Sky_Sports_News_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/802
-#EXTINF:-1,UK=Sky_Sports_Premier_League_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/271
-#EXTINF:-1,UK=Sky-Atlantic-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1971
-#EXTINF:-1,UK=Sky-Movies-Action-&-Adventure-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/627
-#EXTINF:-1,UK=Sky-Movies-Comedy-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/274
-#EXTINF:-1,UK=Sky-Movies-Drama & Romance-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/276
-#EXTINF:-1,UK=Sky-Movies-Family-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/275
-#EXTINF:-1,UK=Sky-Movies-Premiere-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/612
-#EXTINF:-1,UK=Sky-Movies-Select-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/272
-#EXTINF:-1,UK=SkyNet-Sports-1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2277
-#EXTINF:-1,UK=SkyNet-Sports-2
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2276
-#EXTINF:-1,UK=SkyNet-Sports-3
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2278
-#EXTINF:-1,UK=SkyNet-Sports-4
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2275
-#EXTINF:-1,UK=SkyNet-Sports-5
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2274
-#EXTINF:-1,UK=SkyNet-Sports-6
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2273
-#EXTINF:-1,UK=SPIKE
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5166
-#EXTINF:-1,UK=STV
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5158
-#EXTINF:-1,UK=TCM
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5165
-#EXTINF:-1,UK=TLC
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5164
-#EXTINF:-1,UK=TLC-1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5163
-#EXTINF:-1,UK=TLC-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1966
-#EXTINF:-1,UK=True-Movies-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/680
-#EXTINF:-1,UK=True-Movies-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/679
-#EXTINF:-1,UK=Universal Channel
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5200
-#EXTINF:-1,UK=VH1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5157
-#EXTINF:-1,UK=Watch
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5201
-#EXTINF:-1,UK=YESTRDAY
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5162
-#EXTINF:-1,USA=A&E-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2098
-#EXTINF:-1,USA=ABC-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2094
-#EXTINF:-1,USA=ABC-News
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1326
-#EXTINF:-1,USA=AMC-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2096
-#EXTINF:-1,USA=Animal-Planet-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2097
-#EXTINF:-1,USA=BBC-WORLD-NEWS
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2634
-#EXTINF:-1,USA=BeinSport-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1465
-#EXTINF:-1,USA=BET
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5233
-#EXTINF:-1,USA=BLOOMBERG-TV
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2663
-#EXTINF:-1,USA=Bravo-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2093
-#EXTINF:-1,USA=BT-Sport-ESPN-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2341
-#EXTINF:-1,USA=C-SPAN-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2646
-#EXTINF:-1,USA=C-SPAN-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2645
-#EXTINF:-1,USA=C-SPAN-3-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2644
-#EXTINF:-1,USA=CBN-News-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1450
-#EXTINF:-1,USA=CBS Sports HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4029
-#EXTINF:-1,USA=CBS-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5232
-#EXTINF:-1,USA=CBSN-News
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2649
-#EXTINF:-1,USA=CineMax-East-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1453
-#EXTINF:-1,USA=CNBC HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5231
-#EXTINF:-1,USA=CNN-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1291
-#EXTINF:-1,USA=Comedy-Central-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2100
-#EXTINF:-1,USA=Crime-&-Investigation-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2339
-#EXTINF:-1,USA=CW-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2101
-#EXTINF:-1,USA=DISCOVERY VELOCITY
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5230
-#EXTINF:-1,USA=Discovery-Channel-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2340
-#EXTINF:-1,USA=Discovery-Science-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1290
-#EXTINF:-1,USA=DISNEY XD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5239
-#EXTINF:-1,USA=DIY NETWORK
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5229
-#EXTINF:-1,USA=ESPN_News_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2636
-#EXTINF:-1,USA=ESPN_U_HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2656
-#EXTINF:-1,USA=ESPN-2
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5228
-#EXTINF:-1,USA=ESPN-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1297
-#EXTINF:-1,USA=FANTASY SPORTS NETWORK
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4028
-#EXTINF:-1,USA=Fight Sports HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4027
-#EXTINF:-1,USA=Fight-Sport-1
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2653
-#EXTINF:-1,USA=Food-Network-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2329
-#EXTINF:-1,USA=Fox-News-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1645
-#EXTINF:-1,USA=FOX.SPORT1 HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5227
-#EXTINF:-1,USA=FOX.SPORT2 HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5226
-#EXTINF:-1,USA=FOX.SPORT506
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5225
-#EXTINF:-1,USA=FS1-Fox-Sports-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1288
-#EXTINF:-1,USA=FS1-Fox-Sports-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1323
-#EXTINF:-1,USA=FX-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2654
-#EXTINF:-1,USA=GOLF CHANNEL
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5238
-#EXTINF:-1,USA=GRIT-TV-MOVIES
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2661
-#EXTINF:-1,USA=HALLMARK
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2655
-#EXTINF:-1,USA=HBO-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1441
-#EXTINF:-1,USA=HBO-Zone-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1443
-#EXTINF:-1,USA=HGTV-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1500
-#EXTINF:-1,USA=History
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2670
-#EXTINF:-1,USA=MLB-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2657
-#EXTINF:-1,USA=MOTORSPORT TV
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4026
-#EXTINF:-1,USA=NAT GEO WILD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5237
-#EXTINF:-1,USA=Nat-Geo-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1286
-#EXTINF:-1,USA=NBA
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1499
-#EXTINF:-1,USA=NBC SPORT HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4025
-#EXTINF:-1,USA=NBC Sports HD (Premier League)
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4020
-#EXTINF:-1,USA=NBC SPORTS PHILLY HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4017
-#EXTINF:-1,USA=NBC-Golf-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1325
-#EXTINF:-1,USA=NBC-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2089
-#EXTINF:-1,USA=NBCSN-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2659
-#EXTINF:-1,USA=NFL-Network-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2342
-#EXTINF:-1,USA=OWN
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2894
-#EXTINF:-1,USA=OXYGEN
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/5236
-#EXTINF:-1,USA=PBS-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2088
-#EXTINF:-1,USA=ShowTime-1-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1804
-#EXTINF:-1,USA=ShowTime-2-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1445
-#EXTINF:-1,USA=SPIKE-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2345
-#EXTINF:-1,USA=Sports Net 360 HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4016
-#EXTINF:-1,USA=SPORTSMAN CHANNEL HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/4014
-#EXTINF:-1,USA=SportsNet-One-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1281
-#EXTINF:-1,USA=SportsNet-Ontorio-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1493
-#EXTINF:-1,USA=Starz-Cinema-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1437
-#EXTINF:-1,USA=Starz-Comedy-HD
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/1803
-#EXTINF:-1,USA=Starz-East
-http://iptv.drsharing.com:50100/www.drsharing.com/00201226411371-0/2660
+#EXTINF:0,|FR| RMC SPORT 1 HD ACCESS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6726
+#EXTINF:0,|FR| RMC SPORT 2 HD ACCESS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6727
+#EXTINF:0,|FR| RMC SPORT 3 HD ACCESS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6728
+#EXTINF:0,|FR| RMC SPORT 1 HD  720p
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6514
+#EXTINF:0,|FR| RMC SPORT 2 HD  720p
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6515
+#EXTINF:0,|FR| RMC SPORT 3 HD  720p
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6516
+#EXTINF:0,|FR| RMC SPORT 4 HD  720p
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6517
+#EXTINF:0,|FR| RMC SPORT 5 HD  720p
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6518
+#EXTINF:0,|FR| RMC SPORT LIVE 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5709
+#EXTINF:0,|FR| RMC SPORT LIVE 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5708
+#EXTINF:0,|FR| RMC SPORT LIVE 7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5707
+#EXTINF:0,|FR| RMC SPORT LIVE 8
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5706
+#EXTINF:0,|FR| RMC SPORT LIVE 9
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5705
+#EXTINF:0,|FR| RMC SPORT UHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5710
+#EXTINF:0,|FR| RMC SPORT LIVE 10 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6503
+#EXTINF:0,|FR| RMC SPORT LIVE 11 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5704
+#EXTINF:0,|FR| RMC SPORT LIVE 12 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5703
+#EXTINF:0,|FR| RMC SPORT LIVE 13 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5702
+#EXTINF:0,|FR| RMC SPORT LIVE 14 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6504
+#EXTINF:0,|FR| RMC SPORT LIVE 15 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6505
+#EXTINF:0,|FR| RMC SPORT LIVE 16 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6506
+#EXTINF:0,----------- GENERALISTES -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2456
+#EXTINF:0,|FR| TF1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2650
+#EXTINF:0,|FR| TF1 +1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4036
+#EXTINF:0,|FR| TF1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/91
+#EXTINF:0,|FR| M6 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1651
+#EXTINF:0,|FR| M6 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/124
+#EXTINF:0,|FR| M6 +1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4455
+#EXTINF:0,|FR| W9 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1641
+#EXTINF:0,|FR| W9 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/32
+#EXTINF:0,|FR| ARTE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3274
+#EXTINF:0,|FR| ARTE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/111
+#EXTINF:0,|FR| TF1 SERIES FILMS FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4002
+#EXTINF:0,|FR| TF1 SERIES FILMS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4003
+#EXTINF:0,|FR| FRANCE O FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3412
+#EXTINF:0,|FR| FRANCE O HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/113
+#EXTINF:0,|FR| FRANCE 2  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2941
+#EXTINF:0,|FR| FRANCE 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/116
+#EXTINF:0,|FR| FRANCE 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3032
+#EXTINF:0,|FR| FRANCE 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/115
+#EXTINF:0,|FR| FRANCE 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2912
+#EXTINF:0,|FR| FRANCE 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/114
+#EXTINF:0,|FR| FRANCE 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2913
+#EXTINF:0,|FR| FRANCE 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/117
+#EXTINF:0,|FR| RMC STORY FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/7486
+#EXTINF:0,|FR| RMC STORY  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3013
+#EXTINF:0,|FR| RMC STORY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2172
+#EXTINF:0,|FR| TFX FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3095
+#EXTINF:0,|FR| TFX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/669
+#EXTINF:0,|FR| TMC +1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4037
+#EXTINF:0,|FR| TMC FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3096
+#EXTINF:0,|FR| TMC HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/670
+#EXTINF:0,----------- NEWS -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3863
+#EXTINF:0,|FR| FRANCE INFO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4099
+#EXTINF:0,|FR| BFM BUSINESS FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4237
+#EXTINF:0,|FR| BFM BUSINESS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3862
+#EXTINF:0,|FR| BFM TV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/913
+#EXTINF:0,|FR| CNEWS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2982
+#EXTINF:0,|FR| EURONEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/656
+#EXTINF:0,|FR| FRANCE 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/623
+#EXTINF:0,|FR| TV5 MONDE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1899
+#EXTINF:0,|FR| I24 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4095
+#EXTINF:0,|FR| I24 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4097
+#EXTINF:0,|FR| LCI FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4098
+#EXTINF:0,|FR| LCI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4096
+#EXTINF:0,----------- BOUQUET RMC  SPORTS -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2474
+#EXTINF:0,|FR| RMC SPORT 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2944
+#EXTINF:0,|FR| RMC SPORT 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2318
+#EXTINF:0,|FR| RMC SPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3616
+#EXTINF:0,|FR| RMC SPORT 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3012
+#EXTINF:0,|FR| RMC SPORT 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2256
+#EXTINF:0,|FR| RMC SPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3617
+#EXTINF:0,|FR| RMC SPORT 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2319
+#EXTINF:0,|FR| RMC SPORT 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3426
+#EXTINF:0,|FR| RMC SPORT 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4456
+#EXTINF:0,|FR| RMC SPORT 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4457
+#EXTINF:0,|FR| RMC SPORT 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3425
+#EXTINF:0,|fr| Sfr  Action
+http://localhd.tv:8081/movie/bdcmf111/VVL6WTvRj6/3997.mkv
+#EXTINF:0,|fr| Sfr  Comedy
+http://localhd.tv:8081/movie/bdcmf111/VVL6WTvRj6/3996.mkv
+#EXTINF:0,|fr| Sfr  Horror
+http://localhd.tv:8081/movie/bdcmf111/VVL6WTvRj6/3995.mkv
+#EXTINF:0,|fr| Sfr  Sci-fi
+http://localhd.tv:8081/movie/bdcmf111/VVL6WTvRj6/3994.mkv
+#EXTINF:0,----------- BOUQUET SPORT ET BEIN -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2452
+#EXTINF:0,|FR| BEIN SPORTS 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2431
+#EXTINF:0,|FR| BEIN SPORTS 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/85
+#EXTINF:0,|FR| BEIN SPORT 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3401
+#EXTINF:0,|FR| BEIN SPORTS 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2432
+#EXTINF:0,|FR| BEIN SPORTS 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2
+#EXTINF:0,|FR| BEIN SPORT 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3402
+#EXTINF:0,|FR| BEIN SPORTS 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2433
+#EXTINF:0,|FR| BEIN SPORTS 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3011
+#EXTINF:0,|FR| BEIN MAX 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1209
+#EXTINF:0,|FR| BEIN MAX 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/894
+#EXTINF:0,|FR| BEIN MAX 6 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/903
+#EXTINF:0,|FR| BEIN MAX 7 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/902
+#EXTINF:0,|FR| BEIN MAX 8 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/901
+#EXTINF:0,|FR| BEIN MAX 9 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2680
+#EXTINF:0,|FR| BEIN MAX 10 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2770
+#EXTINF:0,----------- BEINMAX FULLHD -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3551
+#EXTINF:0,|FR| BEIN MAX 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3424
+#EXTINF:0,|FR| BEIN MAX 6 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3422
+#EXTINF:0,|FR| BEIN MAX 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3423
+#EXTINF:0,|FR| BEIN MAX 7 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3421
+#EXTINF:0,|FR| BEIN MAX 8 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3420
+#EXTINF:0,|FR| BEIN MAX 9 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3419
+#EXTINF:0,|FR| BEIN MAX 10 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3418
+#EXTINF:0,----------- BOUQUET SPORT  ET INFO -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2683
+#EXTINF:0,|FR| AB MOTEURS FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3413
+#EXTINF:0,|FR| AB MOTEURS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/957
+#EXTINF:0,|FR| OL TV FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3083
+#EXTINF:0,|FR| EXTREME SPORT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2924
+#EXTINF:0,|FR| MOTORSPORT TV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3018
+#EXTINF:0,|FR| EUROSPORT 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2444
+#EXTINF:0,|FR| EUROSPORT 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4351
+#EXTINF:0,|FR| EUROSPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/59
+#EXTINF:0,|FR| EUROSPORT 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2445
+#EXTINF:0,|FR| EUROSPORT 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4352
+#EXTINF:0,|FR| EUROSPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/949
+#EXTINF:0,|FR| FOOT+ 24/24 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1650
+#EXTINF:0,|FR| FOOT+ 24/24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/58
+#EXTINF:0,|FR| L'EQUIPE 21 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3355
+#EXTINF:0,|FR| L'EQUIPE 21 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/893
+#EXTINF:0,|FR| GOLF CHANNEL FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3302
+#EXTINF:0,|FR| GOLF CHANNEL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3570
+#EXTINF:0,|FR| GOLF+ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3283
+#EXTINF:0,|FR| GOLF+ HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2231
+#EXTINF:0,|FR| INFOSPORT+ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/100
+#EXTINF:0,|FR| INFOSPORT+ HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3020
+#EXTINF:0,|FR| RMC NEWS SPORT FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3331
+#EXTINF:0,|FR| RMC NEWS SPORT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2399
+#EXTINF:0,|FR| EQUIDIA LIVE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3417
+#EXTINF:0,|FR| EQUIDIA LIVE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1441
+#EXTINF:0,|FR| EQUIDIA LIFE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3416
+#EXTINF:0,|FR| EQUIDIA LIFE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2434
+#EXTINF:0,|FR| KOMBAT SPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2346
+#EXTINF:0,-----------MULTISPORTS-----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3326
+#EXTINF:0,|FR| MULTISPORTS 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3320
+#EXTINF:0,|FR| MULTISPORTS 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3321
+#EXTINF:0,|FR| MULTISPORTS 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3322
+#EXTINF:0,|FR| MULTISPORTS 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3323
+#EXTINF:0,|FR| MULTISPORTS 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3324
+#EXTINF:0,|FR| MULTISPORTS 6 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3325
+#EXTINF:0,----------- CANAL SAT CANAL+ -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2459
+#EXTINF:0,|FR| CANAL+ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2467
+#EXTINF:0,|FR| CANAL+ HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/82
+#EXTINF:0,|FR| CANAL+
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3094
+#EXTINF:0,|FR| CANAL+ CINEMA FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2470
+#EXTINF:0,|FR| CANAL+ CINEMA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/81
+#EXTINF:0,|FR| CANAL+  CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3014
+#EXTINF:0,|FR| CANAL+ SERIES FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2471
+#EXTINF:0,|FR| CANAL+ SERIES HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/78
+#EXTINF:0,|FR| CANAL+ SERIE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3015
+#EXTINF:0,|FR| CANAL+  FAMILY FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2468
+#EXTINF:0,|FR| CANAL+  FAMILY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/79
+#EXTINF:0,|FR| CANAL+  FAMILY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3017
+#EXTINF:0,|FR| CANAL+  DECALE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2469
+#EXTINF:0,|FR| CANAL+  DECALE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/80
+#EXTINF:0,|FR| CANAL+  DECALE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3016
+#EXTINF:0,|FR| CANAL+  SPORT FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2534
+#EXTINF:0,|FR| CANAL+  SPORT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/77
+#EXTINF:0,|FR| CANAL+  SPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5437
+#EXTINF:0,----------- BOUQUET OCS ORANGE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2682
+#EXTINF:0,|FR| OCS MAX   FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3902
+#EXTINF:0,|FR| OCS MAX  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3027
+#EXTINF:0,|FR| OCS MAX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/895
+#EXTINF:0,|FR| OCS GEANT  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3900
+#EXTINF:0,|FR| OCS GEANT FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2975
+#EXTINF:0,|FR| OCS GEANT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/816
+#EXTINF:0,|FR| OCS CHOC  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3901
+#EXTINF:0,|FR| OCS CHOC FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/814
+#EXTINF:0,|FR| OCS CHOC HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2981
+#EXTINF:0,|FR| OCS CITY  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3899
+#EXTINF:0,|FR| OCS CITY FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/55
+#EXTINF:0,|FR| OCS CITY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1649
+#EXTINF:0,----------- BOUQUET CINEMA -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2457
+#EXTINF:0,|FR| NOVELAS FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3332
+#EXTINF:0,|FR| NOVELAS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4502
+#EXTINF:0,|FR| WARNER TV FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3328
+#EXTINF:0,|FR| WARNER TV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3880
+#EXTINF:0,|FR| POLAR + FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4531
+#EXTINF:0,|FR| POLAR + HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3126
+#EXTINF:0,|FR| ALTICE STUDIO FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3157
+#EXTINF:0,|FR| ALTICE STUDIO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3866
+#EXTINF:0,|FR| CINE+  PREMIER
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3021
+#EXTINF:0,|FR| CINE+  PREMIER FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2497
+#EXTINF:0,|FR| CINE+  PREMIER HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/61
+#EXTINF:0,|FR| CINE+  FRISSON FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2498
+#EXTINF:0,|FR| CINE+  FRISSON HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/62
+#EXTINF:0,|FR| CINE+  FAMIZ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2499
+#EXTINF:0,|FR| CINE+  FAMIZ HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/63
+#EXTINF:0,|FR| CINE+  EMOTION FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2500
+#EXTINF:0,|FR| CINE+  EMOTION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/64
+#EXTINF:0,|FR| CINE CLASSIC FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2501
+#EXTINF:0,|FR| CINE CLASSIC HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/65
+#EXTINF:0,|FR| CINE+ CLUB FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3171
+#EXTINF:0,|FR| CINE+ CLUB HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2503
+#EXTINF:0,|FR| CINE FX  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4512
+#EXTINF:0,|FR| CINE FX FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2504
+#EXTINF:0,|FR| CINE FX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/672
+#EXTINF:0,|FR| CINE POLAR FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2502
+#EXTINF:0,|FR| CINE POLAR HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/66
+#EXTINF:0,|FR| PARAMOUNT CHANNEL FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3290
+#EXTINF:0,|FR| PARAMOUNT CHANNEL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/911
+#EXTINF:0,|FR| TCM CINEMA FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2916
+#EXTINF:0,|FR| TCM CINEMA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2230
+#EXTINF:0,|FR| ACTION FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3099
+#EXTINF:0,|FR| ACTION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/87
+#EXTINF:0,----------- BOUQUET SERIES & DIVERTISSEMENTS -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2455
+#EXTINF:0,|FR| ES1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/7747
+#EXTINF:0,|FR| COMEDY CENTRAL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6823
+#EXTINF:0,|FR| E! HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1900
+#EXTINF:0,|FR| ELLE GIRL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2970
+#EXTINF:0,|FR| NOLLYWOOD HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2972
+#EXTINF:0,|FR| BET HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2942
+#EXTINF:0,|FR|  A+ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3087
+#EXTINF:0,|FR| COMEDIE+  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6724
+#EXTINF:0,|FR| COMEDIE+ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2934
+#EXTINF:0,|FR| COMEDIE+ HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/118
+#EXTINF:0,|FR| SYFY FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2917
+#EXTINF:0,|FR| SYFY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/129
+#EXTINF:0,|FR| PARIS PREMIERE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3334
+#EXTINF:0,|FR| PARIS PREMIERE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/67
+#EXTINF:0,|FR| NON STOP PEOPLE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3934
+#EXTINF:0,|FR| TV BREIZH  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6725
+#EXTINF:0,|FR| TV BREIZH FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2918
+#EXTINF:0,|FR| TV BREIZH HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1306
+#EXTINF:0,|FR| RTL9 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3098
+#EXTINF:0,|FR| RTL9 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/671
+#EXTINF:0,|FR| TEVA FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3097
+#EXTINF:0,|FR| TEVA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/92
+#EXTINF:0,|FR| SERIE CLUB  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4358
+#EXTINF:0,|FR| SERIE CLUB FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2919
+#EXTINF:0,|FR| SERIE CLUB HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/53
+#EXTINF:0,|FR| 13EME RUE  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/7865
+#EXTINF:0,|FR| 13EME RUE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2915
+#EXTINF:0,|FR| 13EME RUE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/89
+#EXTINF:0,|FR| AB1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1160
+#EXTINF:0,|FR| AB1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2185
+#EXTINF:0,|FR| AB3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2232
+#EXTINF:0,|FR| J ONE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3335
+#EXTINF:0,|FR| J ONE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2344
+#EXTINF:0,|FR| GAME ONE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3296
+#EXTINF:0,|FR| GAME ONE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2343
+#EXTINF:0,|FR| CHERIE25  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4359
+#EXTINF:0,|FR| CHERIE25 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3294
+#EXTINF:0,|FR| CHERIE25 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/318
+#EXTINF:0,|FR| NRJ12 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3336
+#EXTINF:0,|FR| NRJ12 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/95
+#EXTINF:0,|FR| RTS UN HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2345
+#EXTINF:0,|FR| RTS  DEUX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2690
+#EXTINF:0,|FR| 6TER FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3292
+#EXTINF:0,|FR| 6TER HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/88
+#EXTINF:0,|FR| HD1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3010
+#EXTINF:0,|FR| HD1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/818
+#EXTINF:0,|FR| C8 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3297
+#EXTINF:0,|FR| C8 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/126
+#EXTINF:0,|FR| CSTAR FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3002
+#EXTINF:0,|FR| CSTAR HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/60
+#EXTINF:0,|FR| FASHION FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3864
+#EXTINF:0,|FR| FASHION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3865
+#EXTINF:0,----------- BOUQUET DECOUVERTE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2454
+#EXTINF:0,|FR| LA CHAINE METEO FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3327
+#EXTINF:0,|FR| LA CHAINE METEO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3410
+#EXTINF:0,|FR| MUSEUM CHANNEL FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3086
+#EXTINF:0,|FR| MY CUISINE TV FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3088
+#EXTINF:0,|FR| MY CUISINE TV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4465
+#EXTINF:0,|FR| SUNDANCE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3156
+#EXTINF:0,|FR| SUNDANCE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5333
+#EXTINF:0,|FR| MYZEN TV FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3342
+#EXTINF:0,|FR| VICELAND  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3089
+#EXTINF:0,|FR| VICELAND HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5330
+#EXTINF:0,|FR| CRIME DISTRICT FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3300
+#EXTINF:0,|FR| CRIME DISTRICT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2985
+#EXTINF:0,|FR| DISCOVERY INVESTIGATION FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3329
+#EXTINF:0,|FR| DISCOVERY INVESTIGATION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2971
+#EXTINF:0,|FR| DISCOVERY FAMILY  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6636
+#EXTINF:0,|FR| DISCOVERY FAMILY FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3343
+#EXTINF:0,|FR| DISCOVERY FAMILY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4245
+#EXTINF:0,|FR| DISCOVERY  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2508
+#EXTINF:0,|FR| DISCOVERY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/125
+#EXTINF:0,|FR| DISCOVERY SCIENCE  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6480
+#EXTINF:0,|FR| DISCOVERY SCIENCE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2435
+#EXTINF:0,|FR| DISCOVERY SCIENCE  HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/107
+#EXTINF:0,|FR| VOYAGE   FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4361
+#EXTINF:0,|FR| VOYAGE  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/819
+#EXTINF:0,|FR| VOYAGE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2553
+#EXTINF:0,|FR| NATIONAL GEO  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4360
+#EXTINF:0,|FR| NATIONAL GEO FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/97
+#EXTINF:0,|FR| NATIONAL GEO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2999
+#EXTINF:0,|FR| NATIONAL GEO WILD  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6723
+#EXTINF:0,|FR| NATIONAL GEO WILD FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2948
+#EXTINF:0,|FR| NATIONAL GEO WILD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/96
+#EXTINF:0,|FR| ANIMAUX FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3275
+#EXTINF:0,|FR| ANIMAUX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/110
+#EXTINF:0,|FR| USHUAIA FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3276
+#EXTINF:0,|FR| USHUAIA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/51
+#EXTINF:0,|FR| CHASSE ET PECHE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3977
+#EXTINF:0,|FR| CHASSE ET PECHE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/68
+#EXTINF:0,|FR| SEASONS  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6722
+#EXTINF:0,|FR| SEASONS FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2978
+#EXTINF:0,|FR| SEASONS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2317
+#EXTINF:0,|FR| SCIENCES & VIE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3314
+#EXTINF:0,|FR| SCIENCES & VIE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/912
+#EXTINF:0,|FR| TOUTE L HISTOIRE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4123
+#EXTINF:0,|FR| TOUTE L HISTOIRE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/958
+#EXTINF:0,|FR| HISTOIRE  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/7488
+#EXTINF:0,|FR| HISTOIRE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2930
+#EXTINF:0,|FR| HISTOIRE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1654
+#EXTINF:0,|FR| PLANETE+ A&E  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4293
+#EXTINF:0,|FR| PLANETE+ A&E FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2909
+#EXTINF:0,|FR| PLANETE+ A&E HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1257
+#EXTINF:0,|FR| PLANETE  CI FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2936
+#EXTINF:0,|FR| PLANETE  CI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/93
+#EXTINF:0,|FR| PLANETE+ HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2921
+#EXTINF:0,|FR| PLANETE+ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/224
+#EXTINF:0,|FR| RMC DECOUVERTE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2979
+#EXTINF:0,|FR| RMC DECOUVERTE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/815
+#EXTINF:0,|FR| TREK FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2910
+#EXTINF:0,|FR| TREK HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2187
+#EXTINF:0,----------- BOUQUET ENFANTS -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2451
+#EXTINF:0,|FR| TOONAMI  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3052
+#EXTINF:0,|FR| TOONAMI  HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3053
+#EXTINF:0,|FR| CARTOON NETWORK  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6631
+#EXTINF:0,|FR| CARTOON NETWORK FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2935
+#EXTINF:0,|FR| CARTOON NETWORK HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/109
+#EXTINF:0,|FR| TELETOON +1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3339
+#EXTINF:0,|FR| TELETOON+ HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/914
+#EXTINF:0,|FR| ZOUZOU TV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/946
+#EXTINF:0,|FR| NICKELODEON JR FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3414
+#EXTINF:0,|FR| NICKELODEON JR HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2171
+#EXTINF:0,|FR| NICKELODEON FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3415
+#EXTINF:0,|FR| NICKELODEON +1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4454
+#EXTINF:0,|FR| NICKELODEON HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1647
+#EXTINF:0,|FR| NICKELODEON 4TEEN FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3340
+#EXTINF:0,|FR| NICKELODEON 4TEEN HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1648
+#EXTINF:0,|FR| DISNEY CINEMA   FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6632
+#EXTINF:0,|FR| DISNEY CINEMA  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1229
+#EXTINF:0,|FR| DISNEY CINEMA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2646
+#EXTINF:0,|FR| DISNEY CHANNEL  +1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2759
+#EXTINF:0,|FR| DISNEY CHANNEL FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3289
+#EXTINF:0,|FR| DISNEY CHANNEL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1230
+#EXTINF:0,|FR| DISNEY XD  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6633
+#EXTINF:0,|FR| DISNEY XD FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2911
+#EXTINF:0,|FR| DISNEY XD HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/119
+#EXTINF:0,|FR| PIWI FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3284
+#EXTINF:0,|FR| PIWI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/128
+#EXTINF:0,|FR| CANAL J FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3338
+#EXTINF:0,|FR| CANAL J HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/652
+#EXTINF:0,|FR| BOOMERANG FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3295
+#EXTINF:0,|FR| BOOMERANG HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/127
+#EXTINF:0,|FR| MANGAS FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3592
+#EXTINF:0,|FR| MANGAS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/98
+#EXTINF:0,|FR| BOING  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6630
+#EXTINF:0,|FR| BOING FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2931
+#EXTINF:0,|FR| BOING HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/653
+#EXTINF:0,|FR| DISNEY JUNIOR  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6629
+#EXTINF:0,|FR| DISNEY JUNIOR FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2933
+#EXTINF:0,|FR| DISNEY JUNIOR HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/105
+#EXTINF:0,|FR| TIJI  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6721
+#EXTINF:0,|FR| TIJI FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2932
+#EXTINF:0,|FR| TIJI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1208
+#EXTINF:0,|FR| GULLI FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/56
+#EXTINF:0,|FR| GULLI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4263
+#EXTINF:0,|FR| WEO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/947
+#EXTINF:0,----------- BOUQUET BELGES -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2753
+#EXTINF:0,|BE| CINEMA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2756
+#EXTINF:0,|BE| CINEMA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2757
+#EXTINF:0,|BE| BE SERIE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/675
+#EXTINF:0,|BE| CLUB RTL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/676
+#EXTINF:0,|BE| LA UNE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/132
+#EXTINF:0,|BE| LA DEUX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/134
+#EXTINF:0,|BE| LA TROIS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/133
+#EXTINF:0,|BE| PLUG RTL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/131
+#EXTINF:0,|BE| RTL TVI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/130
+#EXTINF:0,|BE| VOO SPORT 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4244
+#EXTINF:0,|BE| VOO SPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2186
+#EXTINF:0,|BE| VOO SPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2768
+#EXTINF:0,|BE| VOO SPORT WORLD 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3291
+#EXTINF:0,|BE| VOO SPORT WORLD 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3500
+#EXTINF:0,|BE| VOO SPORT WORLD 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3501
+#EXTINF:0,|BE| ELEVEN SPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3614
+#EXTINF:0,|BE| ELEVEN SPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3615
+#EXTINF:0,|BE| 2BE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/673
+#EXTINF:0,|BE| EEN HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4008
+#EXTINF:0,|BE| KADET
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4009
+#EXTINF:0,|BE| VIER HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4007
+#EXTINF:0,|BE| VIJF
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4005
+#EXTINF:0,|BE| ZES
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4006
+#EXTINF:0,----------- CHAINES SUISSES -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2718
+#EXTINF:0,|SUI|  TELECLUB CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2732
+#EXTINF:0,|SUI|  TELECLUB PRIME
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2731
+#EXTINF:0,|SUI|  TELECLUB STAR
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2730
+#EXTINF:0,|SUI|  TELECLUB SPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2727
+#EXTINF:0,----------- FILMS OCS -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3606
+#EXTINF:0,|FR|ORANGE CINE 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3605
+#EXTINF:0,|FR|ORANGE CINE 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3604
+#EXTINF:0,|FR|ORANGE CINE 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3603
+#EXTINF:0,|FR|ORANGE CINE 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3602
+#EXTINF:0,|FR|ORANGE CINE 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3601
+#EXTINF:0,|FR|OCS GO CINE 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3600
+#EXTINF:0,|FR|OCS GO CINE 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3599
+#EXTINF:0,|FR|OCS GO CINE 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3598
+#EXTINF:0,|FR|OCS GO CINE 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3597
+#EXTINF:0,|FR|OCS GO CINE 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3627
+#EXTINF:0,|FR|OCS GO CINE 7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3628
+#EXTINF:0,|FR|OCS GO CINE 8
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3629
+#EXTINF:0,|FR|OCS GO CINE 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3596
+#EXTINF:0,----------- CHAINES CANALPLAY -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2473
+#EXTINF:0,|FR| CANAL PLAY 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2351
+#EXTINF:0,|FR| CANAL PLAY 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2352
+#EXTINF:0,|FR| CANAL PLAY 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2353
+#EXTINF:0,|FR| CANAL PLAY 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2354
+#EXTINF:0,|FR| CANAL PLAY 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2355
+#EXTINF:0,|FR| CANAL PLAY 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2356
+#EXTINF:0,|FR| CANAL PLAY 7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3345
+#EXTINF:0,|FR| CANAL PLAY 8
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3346
+#EXTINF:0,|FR| CANAL PLAY 9
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3347
+#EXTINF:0,|FR| CANAL PLAY 10
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3348
+#EXTINF:0,----------- CHAINES A LA CARTE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2472
+#EXTINF:0,|FR|  A LA CARTE 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/49
+#EXTINF:0,|FR|  A LA CARTE 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/48
+#EXTINF:0,|FR|  A LA CARTE 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/47
+#EXTINF:0,|FR|  A LA CARTE 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/46
+#EXTINF:0,|FR|  A LA CARTE 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/45
+#EXTINF:0,|FR|  A LA CARTE 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1817
+#EXTINF:0,|FR|  A LA CARTE 7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/962
+#EXTINF:0,|FR|  A LA CARTE 8
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1591
+#EXTINF:0,|FR|  A LA CARTE 9
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1590
+#EXTINF:0,|FR|  A LA CARTE 10
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/960
+#EXTINF:0,----------- BOUQUET SPORT ARABE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2446
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS NEWS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1898
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS NEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1815
+#EXTINF:0,----------- BEINSPORT H265 FHD -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6822
+#EXTINF:0,AR.BEIN| BEIN SPORTS 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6814
+#EXTINF:0,AR.BEIN| BEIN SPORTS 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6813
+#EXTINF:0,AR.BEIN| BEIN SPORTS 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6812
+#EXTINF:0,AR.BEIN| BEIN SPORTS 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6815
+#EXTINF:0,AR.BEIN| BEIN SPORTS 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6816
+#EXTINF:0,AR.BEIN| BEIN SPORTS 6 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6817
+#EXTINF:0,AR.BEIN| BEIN SPORTS 7 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6818
+#EXTINF:0,AR.BEIN| BEIN SPORTS 8 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6819
+#EXTINF:0,AR.BEIN| BEIN SPORTS 9 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6820
+#EXTINF:0,AR.BEIN| BEIN SPORTS 10 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6821
+#EXTINF:0,----------- BEIN  FULLHD -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3577
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3356
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3357
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3358
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3572
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3573
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 6 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3574
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 7 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3575
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 8 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3576
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 9 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3607
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 10 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3608
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 11 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3609
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 12 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3610
+#EXTINF:0,----------- BEIN HD -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3578
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/892
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/281
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/890
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/282
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/889
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/283
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/888
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/284
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/887
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/351
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/886
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 6 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/353
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/885
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 7 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/354
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 8
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/884
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 8 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/355
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS  9 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/356
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 10 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/352
+#EXTINF:0,|AR.BEIN|  BEIN SPORT HD 10
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/891
+#EXTINF:0,|AR.BEIN|  BEIN SPORT 11  HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1492
+#EXTINF:0,|AR.BEIN|  BEIN SPORTS 12 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2937
+#EXTINF:0,======== OTHERS SPORTS ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3561
+#EXTINF:0,|AR.MBC|  MBC SPORTS1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1824
+#EXTINF:0,|AR.MBC|  MBC SPORTS2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1825
+#EXTINF:0,|AR.MBC|  MBC SPORTS3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1826
+#EXTINF:0,|AR.MBC|  MBC SPORTS 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2127
+#EXTINF:0,|AR.UAE|  DUBAI SPORTS 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1864
+#EXTINF:0,|AR.UAE|  ABU DHABI SPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1897
+#EXTINF:0,|AR.UAE|  ABU DHABI SPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1869
+#EXTINF:0,|AR.UAE|  DHABI SPORTS 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1991
+#EXTINF:0,|AR.UAE|  DHABI SPORTS 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1990
+#EXTINF:0,|AR.UAE|  DHABI SPORT 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2679
+#EXTINF:0,|AR.UAE|  DHABI SPORT 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2678
+#EXTINF:0,|AR.UAE|  DUBAI SPORT 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2194
+#EXTINF:0,|AR.UAE|  SHARJAH SPORT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2157
+#EXTINF:0,|AR.UAE|  DUBAI RACING
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2156
+#EXTINF:0,|AR.KSA|  SAUDIA SPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2689
+#EXTINF:0,|AR.EGY|  NILE SPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1821
+#EXTINF:0,----------- BOUQUET MAROC -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2450
+#EXTINF:0,|AR.MAR|  AL AOULA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1361
+#EXTINF:0,|AR.MAR|  AL AOULA INTERNATIONAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1373
+#EXTINF:0,|AR.MAR|  2M MAROC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1372
+#EXTINF:0,|AR.MAR|  ARRIADIA   MAROC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/743
+#EXTINF:0,|AR.MAR|  ASSADISSA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1376
+#EXTINF:0,|AR.MAR|  TAMAZIGHT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1378
+#EXTINF:0,|AR.MAR|  ARRABIAA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1375
+#EXTINF:0,|AR.MAR|  MAROCAINE: AL MAGHRIBIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1374
+#EXTINF:0,|AR.MAR|  MEDI 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1785
+#EXTINF:0,|AR.MAR|  TELE MAROC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3281
+#EXTINF:0,|AR.MAR|  AFLAM7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3891
+#EXTINF:0,----------- BOUQUET ALGERIE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2449
+#EXTINF:0,|AR.ALG|  BAHIA  TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4376
+#EXTINF:0,|AR.ALG|  ALGERIE ENTV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2667
+#EXTINF:0,|AR.ALG|  BEUR TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2687
+#EXTINF:0,|AR.ALG|  KBC ALGERIE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2164
+#EXTINF:0,|AR.ALG|  KBC ALGERIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1741
+#EXTINF:0,|AR.ALG|  CANAL ALGERIE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1754
+#EXTINF:0,|AR.ALG|  ALGERIE TV CORAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1757
+#EXTINF:0,|AR.ALG|  ALGERIE 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1755
+#EXTINF:0,|AR.ALG|  ALGERIE  4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2674
+#EXTINF:0,|AR.ALG|  AL HADDAF ALGERIE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2392
+#EXTINF:0,|AR.ALG|  ENNAHAR TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1746
+#EXTINF:0,|AR.ALG|  ENNAHARLAKI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1747
+#EXTINF:0,|AR.ALG|  ELHEDDAF TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1748
+#EXTINF:0,|AR.ALG|  DZAIR  TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1752
+#EXTINF:0,|AR.ALG|  DZAIR NEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1753
+#EXTINF:0,|AR.ALG|  ECHOUROUK NEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1751
+#EXTINF:0,|AR.ALG|  ECHOUROUK BENNA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2675
+#EXTINF:0,|AR.ALG|  ECHOUROUK  TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1750
+#EXTINF:0,|AR.ALG|  DZAIR 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1743
+#EXTINF:0,|AR.ALG|  NUMIDIA NEWS TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1740
+#EXTINF:0,|AR.ALG|  ALDJAZAIRIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1756
+#EXTINF:0,|AR.ALG|  ELBILAD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1749
+#EXTINF:0,|AR.ALG|  MAGHARIBIA TWO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2677
+#EXTINF:0,|AR.ALG|  AL SERAJ
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2927
+#EXTINF:0,|AR.ALG|  ALANIS TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2926
+#EXTINF:0,|AR.ALG|  BERBERE TELEVISION
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2906
+#EXTINF:0,|AR.ALG|  BERBERE JEUNESSE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2908
+#EXTINF:0,----------- BOUQUET TUNIISIE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2461
+#EXTINF:0,|AR.TUN|  NESSMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/752
+#EXTINF:0,|AR.TUN|  HANNIBAL TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1734
+#EXTINF:0,|AR.TUN|  TUNISIE NAT2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1736
+#EXTINF:0,|AR.TUN|  TN TELVZA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2676
+#EXTINF:0,|AR.TUN|  TUNISIE  NAT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1735
+#EXTINF:0,|AR.TUN|  M TUNISIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/782
+#EXTINF:0,|AR.TUN| CARTHAGE TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1733
+#EXTINF:0,|AR.TUN|  ETTOUNSIA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1731
+#EXTINF:0,|AR.TUN|  ELHIWAR ETTOUNSI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1732
+#EXTINF:0,|AR.TUN|  AL JANOUBIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1739
+#EXTINF:0,|AR.TUN|  ATTASSIA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1828
+#EXTINF:0,|AR.TUN|  ZAYTOUNA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1738
+#EXTINF:0,----------- BOUQUET ENFANTS ARABE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2463
+#EXTINF:0,|AR.BEIN|  BEIN BARAEM HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2660
+#EXTINF:0,|AR.BEIN|  BEIN JEEM HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2662
+#EXTINF:0,|AR.ENF|  MBC 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1789
+#EXTINF:0,|AR.ENF|  CARTOON  NETWORK
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1895
+#EXTINF:0,|AR.ENF|  SPACE TOON
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1857
+#EXTINF:0,|AR.ENF|  KIDS MODY KIDS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2200
+#EXTINF:0,|AR.ENF|  BARAEEM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1896
+#EXTINF:0,|AR.ENF|  MICKEY CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2162
+#EXTINF:0,|AR.ENF|  MAJD KIDS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2441
+#EXTINF:0,|AR.ENF|  TOYOR AL JANAH
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1364
+#EXTINF:0,|AR.ENF|  SEMSEM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2158
+#EXTINF:0,|AR.ENF|  SPACE TOON.
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1766
+#EXTINF:0,|AR.ENF|  MAJID KIDS  TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2163
+#EXTINF:0,|AR.ENF|  KARAMESH
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2671
+#EXTINF:0,----------- BOUQUET CUISINE ARABE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2462
+#EXTINF:0,|AR.BEIN| BEIN FATAFEAT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2664
+#EXTINF:0,|AR.BEIN| BEIN GROUMMET HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3029
+#EXTINF:0,|AR.EGY|  PANORAMA FOOD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1840
+#EXTINF:0,|AR.EGY|  CBC SOFRA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1795
+#EXTINF:0,|AR.ALG|  SAMIRA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/751
+#EXTINF:0,|AR.UAE|  FATAFEAT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1767
+#EXTINF:0,----------- CORAN -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2464
+#EXTINF:0,|AR|  MECCA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3282
+#EXTINF:0,|AR.ISLAM|  IQRAA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1792
+#EXTINF:0,|AR.ISLAM|  SAUDI QURAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1781
+#EXTINF:0,|AR.ISLAM|  ZAYTOUNA HEDAYA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1737
+#EXTINF:0,|AR.ISLAM|  SAUDIA  SUNNA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2130
+#EXTINF:0,|AR.ISLAM|  TIME QURAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1762
+#EXTINF:0,|AR.ISLAM|  MAJD QURAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1790
+#EXTINF:0,|AR.ISLAM|  AHEL AL QURAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1768
+#EXTINF:0,|AR.KSA|    SAUDIA  1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1782
+#EXTINF:0,----------- OTHERS -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2465
+#EXTINF:0,|AR.UAE| B4U AFLAM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5662
+#EXTINF:0,|AR.UAE| B4U PLUS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5663
+#EXTINF:0,|AR.KSA| FOX MOVIES FAMILY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3350
+#EXTINF:0,|AR.KSA| FOX MOVIES ACTION
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3349
+#EXTINF:0,|AR.KSA| FOX MOVIES HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3351
+#EXTINF:0,|AR.BEIN|  BEIN SERIES HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2661
+#EXTINF:0,|AR.BEIN|  BEIN  MOVIES 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1812
+#EXTINF:0,|AR.BEIN|  BEIN  MOVIES 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1813
+#EXTINF:0,|AR.BEIN|  BEIN  MOVIES 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1814
+#EXTINF:0,|AR.BEIN|  BEIN  MOVIES 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2228
+#EXTINF:0,|AR.MBC| MBC 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1788
+#EXTINF:0,|AR.MBC| MBC 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1333
+#EXTINF:0,|AR.MBC| MBC 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/755
+#EXTINF:0,|AR.MBC| MBC ACTION
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/756
+#EXTINF:0,|AR.MBC| MBC MAX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1776
+#EXTINF:0,|AR.MBC| MBC MASR 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1777
+#EXTINF:0,|AR.MBC| MBC MASR
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1778
+#EXTINF:0,|AR.MBC| MBC DRAMA + HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2983
+#EXTINF:0,|AR.MBC| MBC DRAMA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1787
+#EXTINF:0,|AR.MBC| MBC DRAMA USA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1786
+#EXTINF:0,|AR.MBC| MBC BOLLYWOOD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/758
+#EXTINF:0,|AR.EGY|  PANORAMA COMEDY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2134
+#EXTINF:0,|AR.EGY|  PANORAMA FILM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1839
+#EXTINF:0,|AR.EGY|  PANORAMA DRAMA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1837
+#EXTINF:0,|AR.EGY|  PANORAMA DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1838
+#EXTINF:0,|AR.EGY|  PANORAMA CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2135
+#EXTINF:0,|AR.EGY|  TIME TURKI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1759
+#EXTINF:0,|AR.EGY|  TIME COMEDY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1764
+#EXTINF:0,|AR.EGY|  TIME CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1765
+#EXTINF:0,|AR.EGY|  NILE LIFE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2159
+#EXTINF:0,|AR.EGY|  CBC 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2131
+#EXTINF:0,|AR.EGY|  AL HAYAT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2123
+#EXTINF:0,|AR.EGY|  CAIRO DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1832
+#EXTINF:0,|AR.EGY|  CAIRO AFLAM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1831
+#EXTINF:0,|AR.EGY|  CAIRO CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1833
+#EXTINF:0,|AR.EGY|  NILE NEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1820
+#EXTINF:0,|AR.EGY|  NILE FAMILY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1819
+#EXTINF:0,|AR.EGY|  NILE DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1822
+#EXTINF:0,|AR.EGY|  NILE CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1823
+#EXTINF:0,|AR.EGY|  NILE COMEDY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1818
+#EXTINF:0,|AR.EGY|  TOK TOK CIMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1758
+#EXTINF:0,|AR.EGY|  CIMA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1794
+#EXTINF:0,|AR.EGY|  CBC EXTRA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1796
+#EXTINF:0,|AR.EGY|  CBC DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1797
+#EXTINF:0,|AR.EGY|  CBC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1798
+#EXTINF:0,|AR.EGY|  AL NAHAR TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1801
+#EXTINF:0,|AR.EGY|  AL NAHAR DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1802
+#EXTINF:0,|AR.EGY|  AL NASS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1232
+#EXTINF:0,|AR.EGY|  AL AHLY TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2166
+#EXTINF:0,|AR.EGY|  AL BAIT BAITAK CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2167
+#EXTINF:0,|AR.EGY|  STAR CINEMA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2125
+#EXTINF:0,|AR.EGY|  SAMA CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2160
+#EXTINF:0,|AR.EGY|  CINEMA PRO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1830
+#EXTINF:0,|AR.EGY|  DREAM 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2694
+#EXTINF:0,|AR.EGY|  DREAM 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2693
+#EXTINF:0,|AR.EGY|  ON SPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2695
+#EXTINF:0,|AR.EGY|  STAR CINEMA2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2692
+#EXTINF:0,|AR.EGY|  ONTV Live
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2440
+#EXTINF:0,|AR.KSA|  ART AFLAM1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1327
+#EXTINF:0,|AR.KSA|  ART AFLAM 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1799
+#EXTINF:0,|AR.KSA|  ART AFLAM  2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/763
+#EXTINF:0,|AR.KSA|  ART CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1800
+#EXTINF:0,|AR.KSA|  ART HEKAYAT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1780
+#EXTINF:0,|AR.KSA|  ART HEKAYAT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1779
+#EXTINF:0,|AR.KSA|  ART HIKAYAT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/760
+#EXTINF:0,|AR.KSA|  AL MAJD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2668
+#EXTINF:0,|AR.UAE|  ABU DHABI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1867
+#EXTINF:0,|AR.UAE|  DUBAI ONE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1859
+#EXTINF:0,|AR.UAE|  DUBAI TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2367
+#EXTINF:0,|AR.UAE|  AD DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1866
+#EXTINF:0,|AR.UAE|  ABUDHABI NATIONAL GEO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1892
+#EXTINF:0,|AR.UAE|  SAMA DUBAI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1863
+#EXTINF:0,|AR.UAE|  DUBAI ZAMAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1861
+#EXTINF:0,|AR.UAE|  NOOR DUBAI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2155
+#EXTINF:0,|AR.UAE|  ZEE ALWAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1769
+#EXTINF:0,|AR.UAE|  ZEE AFLAM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1770
+#EXTINF:0,|AR.NEWS|  SKY NEWS ARABIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2358
+#EXTINF:0,|AR.NEWS|  FRANCE 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1893
+#EXTINF:0,|AR.NEWS|  BBC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1894
+#EXTINF:0,|AR.NEWS|  AL ARABIYA NEWS TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1328
+#EXTINF:0,|AR.QAT|  AL JAZEERA DOC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/745
+#EXTINF:0,|AR.QAT|  AL JAZEERA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/746
+#EXTINF:0,|AR.QAT|  AL JAZEERA MUBASHER
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2132
+#EXTINF:0,|AR.QAT|  ALKASS 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1843
+#EXTINF:0,|AR.QAT|  ALKASS 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1841
+#EXTINF:0,|AR.QAT|  ALKASS 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2136
+#EXTINF:0,|AR.QAT|  ALKASS 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2137
+#EXTINF:0,|AR.QAT|  ALKASS 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2138
+#EXTINF:0,|AR.LIBAN|  LBC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1791
+#EXTINF:0,|AR.LIBAN|  AL MANAR
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1803
+#EXTINF:0,|AR.LIBAN|  AL JADEED
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2128
+#EXTINF:0,|AR.LIBAN|  AL ALAM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2168
+#EXTINF:0,|AR.LIBAN|  NBN TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1874
+#EXTINF:0,|AR.LIBAN|  LDC  LEBANON
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1872
+#EXTINF:0,|AR.LIBAN|  HEYA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1793
+#EXTINF:0,|AR.LIBAN|  AL MAYADEN TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2169
+#EXTINF:0,|AR.LIBAN|  NBN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1775
+#EXTINF:0,|AR.SYR|  SYRIA DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1985
+#EXTINF:0,|AR.SYR|  SYRIA  DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2196
+#EXTINF:0,|AR.SYR|  SYRIA LKHBARIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2195
+#EXTINF:0,|AR.SYR|  SYRIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2133
+#EXTINF:0,|AR.SYR|  SYRIA AL OULA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1986
+#EXTINF:0,|AR.LIB| LIBYA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2672
+#EXTINF:0,|AR.SYR|  SAMA TV SYRIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1771
+#EXTINF:0,----------- BOUQUET OSN ARABE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2448
+#EXTINF:0,|AR.KSA|  OSN SPORTS 1HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2437
+#EXTINF:0,|AR.KSA|  OSN SPORTS 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1445
+#EXTINF:0,|AR.KSA|  OSN SPORTS 3HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2438
+#EXTINF:0,|AR.KSA|  OSN SPORTS 4HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2439
+#EXTINF:0,|AR.KSA|  OSN WWE FIGHT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2122
+#EXTINF:0,|AR.KSA|  OSN  MOVIES PREMIERE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1979
+#EXTINF:0,|AR.KSA|  OSN MOVIES  PREMIERE 2HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1446
+#EXTINF:0,|AR.KSA|  OSN CINEMA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1465
+#EXTINF:0,|AR.KSA|  OSN CINEMA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1974
+#EXTINF:0,|AR.KSA|  OSN ORBIT CINEMA 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/235
+#EXTINF:0,|AR.KSA|  OSN ONDEMAND 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1448
+#EXTINF:0,|AR.KSA|  OSN ONDEMANDE 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2436
+#EXTINF:0,|AR.KSA|  OSN MOVIES HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1469
+#EXTINF:0,|AR.KSA|  OSN MOVIES HD.
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/229
+#EXTINF:0,|AR.KSA|  OSN MOVIES ACTION 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1458
+#EXTINF:0,|AR.KSA|  OSN MOVIES ACTION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1457
+#EXTINF:0,|AR.KSA|  OSN MOVIES BOX OFFICE 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1456
+#EXTINF:0,|AR.KSA|  OSN MOVIES BOX OFFICE 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1455
+#EXTINF:0,|AR.KSA|  OSN MOVIES BOX OFFICE 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1454
+#EXTINF:0,|AR.KSA|  OSN MOVIES BOX OFFICE 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/230
+#EXTINF:0,|AR.KSA|  OSN MOVIES COMEDY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1453
+#EXTINF:0,|AR.KSA|  OSN MOVIES  DRAMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1452
+#EXTINF:0,|AR.KSA|  OSN MOVIES FESTIVAL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1451
+#EXTINF:0,|AR.KSA|  OSN MOVIES FESTIVAL 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1450
+#EXTINF:0,|AR.KSA|  OSN MOVIES STAR HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1449
+#EXTINF:0,|AR.KSA|  OSN MOVIES 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1447
+#EXTINF:0,|AR.KSA|  OSN STAR WORLD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1444
+#EXTINF:0,|AR.KSA|  OSN MBC DRAMA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1459
+#EXTINF:0,|AR.KSA|  OSN YA SHABAB HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1442
+#EXTINF:0,|AR.KSA|  OSN YA HALA DRAMA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1443
+#EXTINF:0,|AR.KSA|  OSN DISCOVERY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1973
+#EXTINF:0,|AR.KSA|  OSN FINE LIVING
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2652
+#EXTINF:0,|AR.KSA|  OSN FANN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2651
+#EXTINF:0,|AR.KSA|  OSN YA HALA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1980
+#EXTINF:0,|AR.KSA|  OSN ANIMAL PLANET HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1467
+#EXTINF:0,|AR.KSA|  OSN FIRST HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1461
+#EXTINF:0,|AR.KSA|  OSN  ORBIT CINEMA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2717
+#EXTINF:0,|AR.KSA|  OSN DISCOVERY SCIENCE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2708
+#EXTINF:0,|AR.KSA|  OSN MOVIE COMEDY 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2707
+#EXTINF:0,|AR.KSA|  OSN MOVIE FAMILY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2714
+#EXTINF:0,|AR.KSA|  OSN MOVIE FIRST 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2711
+#EXTINF:0,|AR.KSA|  OSN NAT GEO PEOPLE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2713
+#EXTINF:0,|AR.KSA|  OSN NAT GEO WILD HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2712
+#EXTINF:0,|AR.KSA|  OSN SERIES FIRST  HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2704
+#EXTINF:0,|AR.KSA|  OSN SYFY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2700
+#EXTINF:0,|AR.KSA|  OSN YAHALA CINEMA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2716
+#EXTINF:0,|AR.KSA|  OSN STAR MOVIE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2706
+#EXTINF:0,|AR.KSA|  OSN SERIES
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6508
+#EXTINF:0,|AR.KSA|  OSN SERIES COMEDY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6507
+#EXTINF:0,|AR.KSA|  OSN AL YOUM HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2702
+#EXTINF:0,======== PORTUGAL FULLHD ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4270
+#EXTINF:0,(PT) SPORT TV 1  UHD   4K
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5335
+#EXTINF:0,(PT) SIC FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5338
+#EXTINF:0,(PT) RTP 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5336
+#EXTINF:0,(PT) RTP 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5337
+#EXTINF:0,|PT| HOLLYWOOD FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/7212
+#EXTINF:0,(PT) SIC  RADICAL FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5339
+#EXTINF:0,(PT) SPORT TV + FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5340
+#EXTINF:0,(PT) SPORT TV 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5341
+#EXTINF:0,(PT) SPORT TV 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5342
+#EXTINF:0,(PT) SPORT TV 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5343
+#EXTINF:0,(PT) SPORT TV 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5344
+#EXTINF:0,|PT| BENFICA TV FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4269
+#EXTINF:0,|PT| 24 KITCHEN FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4268
+#EXTINF:0,|PT| SPORT TV 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4445
+#EXTINF:0,|PT| SPORT TV 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4444
+#EXTINF:0,|PT| SPORT TV 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4443
+#EXTINF:0,|PT| SPORT TV 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4441
+#EXTINF:0,|PT| SPORT TV 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4439
+#EXTINF:0,|PT| RTP 1  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4492
+#EXTINF:0,(PT) ELEVEN SPORTS 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6510
+#EXTINF:0,(PT) ELEVEN SPORTS 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6509
+#EXTINF:0,(PT) ELEVEN SPORTS 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6511
+#EXTINF:0,(PT) ELEVEN SPORTS 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6513
+#EXTINF:0,(PT) ELEVEN SPORTS 6 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6729
+#EXTINF:0,(PT) ELEVEN SPORTS 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6512
+#EXTINF:0,======== BOUQUET PORTUGAL========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2746
+#EXTINF:0,|PT| RTP 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1727
+#EXTINF:0,|PT| RTP 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1726
+#EXTINF:0,|PT| RTP 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1715
+#EXTINF:0,|PT| TVI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4493
+#EXTINF:0,|PT| TVI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1674
+#EXTINF:0,|PT| TVI REALITY (Quinta)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1672
+#EXTINF:0,|PT| TVI FICCAO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2647
+#EXTINF:0,|PT| RTP  MADEIRA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2321
+#EXTINF:0,|PT| RTP ACORES
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2649
+#EXTINF:0,|PT| RTP MEMORIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1683
+#EXTINF:0,|PT| RTP INTERNATIONAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1658
+#EXTINF:0,|PT| RTP INFORMACAO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1659
+#EXTINF:0,|PT| RTP ACORESS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1685
+#EXTINF:0,|PT| RTP AFRICA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1684
+#EXTINF:0,|PT| SIC RADICAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1656
+#EXTINF:0,|PT| CANAL Q
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1704
+#EXTINF:0,|PT| SIC MULHER
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1682
+#EXTINF:0,|PT| SIC HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1725
+#EXTINF:0,======== NOTICIAS ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3562
+#EXTINF:0,|PT| STV NOTICIAS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2334
+#EXTINF:0,|PT| CM TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1700
+#EXTINF:0,|PT| TVI 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1673
+#EXTINF:0,|PT| SIC NOTICIAS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1657
+#EXTINF:0,|PT| E! HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1695
+#EXTINF:0,|PT| EURONEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2335
+#EXTINF:0,|PT| FOX NEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2331
+#EXTINF:0,======== INFANTIL ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3568
+#EXTINF:0,|PT| SIC KIDS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2329
+#EXTINF:0,|PT| BABY TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1708
+#EXTINF:0,|PT| DISNEY JUNIOR
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1696
+#EXTINF:0,|PT| DISNEY CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1697
+#EXTINF:0,|PT| CARTOON NETWORK
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2330
+#EXTINF:0,|PT| CANAL PANDA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1705
+#EXTINF:0,|PT| NICKELODEON
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1688
+#EXTINF:0,|PT| JIM JAM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1661
+#EXTINF:0,|PT| BIGGS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2328
+#EXTINF:0,======== CINEMA & SERIES   ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3563
+#EXTINF:0,|PT| TV CINE 1  HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1716
+#EXTINF:0,|PT| TV CINE 2  HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1717
+#EXTINF:0,|PT| TV CINE 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1718
+#EXTINF:0,|PT| TV CINE 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1719
+#EXTINF:0,|PT| CINEMUNDO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1701
+#EXTINF:0,|PT| TV SERIES
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1675
+#EXTINF:0,|PT| AMC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1709
+#EXTINF:0,|PT| HOLLYWOOD HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1662
+#EXTINF:0,|PT| FOX TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1663
+#EXTINF:0,|PT| FOX MOVIES
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1729
+#EXTINF:0,|PT| Fox Comedy
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1694
+#EXTINF:0,|PT| FOX LIFE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1664
+#EXTINF:0,|PT| FOX CRIME
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1665
+#EXTINF:0,|PT| AXN HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1714
+#EXTINF:0,|PT| AXN BLACK HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2140
+#EXTINF:0,|PT| AXN WHITE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1713
+#EXTINF:0,|PT| SYFY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1655
+#EXTINF:0,|PT| MOV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1728
+#EXTINF:0,======== DESPORTO  ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3564
+#EXTINF:0,(PT) NBA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6730
+#EXTINF:0,|PT| SPORT TV+
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2324
+#EXTINF:0,|PT| SPORT TV 1 HD 720p
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4437
+#EXTINF:0,|PT| SPORT TV 1 SD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4438
+#EXTINF:0,|PT| SPORT TV 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1721
+#EXTINF:0,|PT| SPORT TV 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1722
+#EXTINF:0,|PT| SPORT TV 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1723
+#EXTINF:0,|PT| SPORT TV 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1724
+#EXTINF:0,|PT| SPORT TV  5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2139
+#EXTINF:0,|PT| SPORT TV 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2295
+#EXTINF:0,|PT| BENFICA TV 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1670
+#EXTINF:0,|PT| BENFICA TV 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1669
+#EXTINF:0,|PT| SPORTING TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1720
+#EXTINF:0,|PT| EUROSPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1667
+#EXTINF:0,|PT| EUROSPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1666
+#EXTINF:0,|PT| PORTO CANAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1660
+#EXTINF:0,|PT| PORTO  CANAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2772
+#EXTINF:0,|PT| TOUROS TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1680
+#EXTINF:0,|PT| MOTORS TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1692
+#EXTINF:0,|PT| FUEL TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1693
+#EXTINF:0,|PT|  A BOLA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1710
+#EXTINF:0,|PT| EUROSPORT  NEWS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2325
+#EXTINF:0,|PT| MOTORVISION
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2327
+#EXTINF:0,|PT| PFC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1686
+#EXTINF:0,======== CULTURA  ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3565
+#EXTINF:0,|PT| NATIONAL GEOGRAPHIC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1690
+#EXTINF:0,|PT| NATIONAL GEOGRAPHIC WILD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1689
+#EXTINF:0,|PT| ODISSEIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1687
+#EXTINF:0,|PT| DISCOVERY HD SHOWCASE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1698
+#EXTINF:0,|PT| DISCOVERY CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1699
+#EXTINF:0,|PT| CBS REALITY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1703
+#EXTINF:0,|PT| CANAL HISTORIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1706
+#EXTINF:0,|PT| CACA & PESCA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1707
+#EXTINF:0,|PT| CACA VISION
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2323
+#EXTINF:0,|PT| CACA E PESCA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2322
+#EXTINF:0,|PT| A & E
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1711
+#EXTINF:0,|PT| 24 KITCHEN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1712
+#EXTINF:0,|PT| CANAL  TOROS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2554
+#EXTINF:0,|PT| TLC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1681
+#EXTINF:0,|PT| TRAVEL CHANNEL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2773
+#EXTINF:0,|PT| TPA INTERN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/1679
+#EXTINF:0,----------- ITALIA  ----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2815
+#EXTINF:0,------- Top Italia -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3878
+#EXTINF:0,|IT| RSI LA 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2904
+#EXTINF:0,|IT| RSI LA 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2905
+#EXTINF:0,|IT| CANALE 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2779
+#EXTINF:0,|IT| LA 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2787
+#EXTINF:0,|IT| LA 7 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2788
+#EXTINF:0,|IT| RAI 1HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2802
+#EXTINF:0,|IT| RAI 3HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2803
+#EXTINF:0,|IT| RAI 2HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2816
+#EXTINF:0,|IT| RAI 4HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2817
+#EXTINF:0,|IT| RAI 5HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2818
+#EXTINF:0,|IT| RAI GULP
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2829
+#EXTINF:0,|IT| RAI MOVIE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2831
+#EXTINF:0,|IT| RAI PREMIUM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2832
+#EXTINF:0,|IT| RAI SCUOLA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2826
+#EXTINF:0,|IT| IRIS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2894
+#EXTINF:0,|IT| RETE 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2900
+#EXTINF:0,|IT| TELE TICINO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2897
+#EXTINF:0,|IT| TV2000
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2895
+#EXTINF:0,|IT| MEDIASET ITALIA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2903
+#EXTINF:0,|IT| MEDIASET ITALIA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2857
+#EXTINF:0,|IT| SENATO TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3582
+#EXTINF:0,|IT| LEI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3906
+#EXTINF:0,|IT| NUVOLARI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2893
+#EXTINF:0,|IT| MEDIASET TOP CRIME
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2879
+#EXTINF:0,------- IT Calcio -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3876
+#EXTINF:0,|IT| SKY SUPERCALCIO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2898
+#EXTINF:0,|IT| CALCIO 01 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3893
+#EXTINF:0,|IT| CALCIO 02 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3894
+#EXTINF:0,|IT| CALCIO 03 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3895
+#EXTINF:0,|IT| CALCIO 04 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3896
+#EXTINF:0,|IT| CALCIO 05 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3897
+#EXTINF:0,|IT| CALCIO 06 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3898
+#EXTINF:0,----------- Mediaset Premium Cinema -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3432
+#EXTINF:0,|IT| PREMIUM ACTION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2847
+#EXTINF:0,|IT| PREMIUM COMEDY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2849
+#EXTINF:0,|IT| PREMIUM CRIME 24 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2850
+#EXTINF:0,|IT| PREMIUM CRIME HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2851
+#EXTINF:0,|IT| PREMIUM ENERGY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2856
+#EXTINF:0,|IT| PREMIUM STORIES HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2846
+#EXTINF:0,|IT| PREMIUM CINEMA 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2870
+#EXTINF:0,|IT| PREMIUM CINEMA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2796
+#EXTINF:0,|IT| PREMIUM CINEMA 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2809
+#EXTINF:0,|IT| PREMIUMT CINEMA 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2848
+#EXTINF:0,|IT| PREMIUM ENERGY +24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2873
+#EXTINF:0,|IT| PREMIUM EMOTION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2774
+#EXTINF:0,|IT| PREMIUM ACTION 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2793
+#EXTINF:0,|IT| PREMIUM JOI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2797
+#EXTINF:0,|IT| PREMIUM PARAMOUNT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2791
+#EXTINF:0,|IT| PREMIUM CINEMA 2 +24 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2871
+#EXTINF:0,|IT| PREMIUM STORIES +24 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2872
+#EXTINF:0,|IT| PREMIUM STUDIO UNIVERSAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2798
+#EXTINF:0,------- Mediaset Premium Calcio -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3868
+#EXTINF:0,|IT| PREMUIM CALCIO1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6733
+#EXTINF:0,|IT| PREMUIM CALCIO2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6734
+#EXTINF:0,|IT| PREMUIM CALCIO3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6735
+#EXTINF:0,|IT| PREMUIM CALCIO4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6736
+#EXTINF:0,|IT| PREMUIM CALCIO5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6737
+#EXTINF:0,|IT| PREMUIM CALCIO6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/6738
+#EXTINF:0,|IT|  PREMIUM CALCIO 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2794
+#EXTINF:0,|IT|  PREMIUM CALCIO 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2855
+#EXTINF:0,|IT|  PREMIUM CALCIO 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3580
+#EXTINF:0,|IT|  PREMIUM CALCIO 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3590
+#EXTINF:0,|IT|  PREMIUM CALCIO 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2795
+#EXTINF:0,|IT|  PREMIUM CALCIO 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3591
+#EXTINF:0,------- Cultura E Documentari -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3871
+#EXTINF:0,|IT| ANIMAL PLANET HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2814
+#EXTINF:0,|IT| NAT GEO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2792
+#EXTINF:0,|IT| NATIONAL GEO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2868
+#EXTINF:0,|IT| NATIONAL GEO WILD HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2878
+#EXTINF:0,|IT| NAT GEO PEOPLE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2843
+#EXTINF:0,|IT| CRIME INVESTIGATION
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3905
+#EXTINF:0,|IT| HISTORY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3867
+#EXTINF:0,|IT| DISCOVERY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2810
+#EXTINF:0,|IT| DISCOVERY SCI HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2783
+#EXTINF:0,|IT| DISCOVERY TRAVEL & LIVING HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2842
+#EXTINF:0,|IT| FOCUS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2889
+#EXTINF:0,|IT| DMAX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2782
+#EXTINF:0,|IT| MEDIASET EXTRA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2790
+#EXTINF:0,|IT| CACCIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3910
+#EXTINF:0,|IT| PESCA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3911
+#EXTINF:0,|IT| INVESTIGATION DISCOVERY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3904
+#EXTINF:0,|IT| MARCOPOLO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2896
+#EXTINF:0,------- IT News -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3875
+#EXTINF:0,|IT| SKY TG24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2902
+#EXTINF:0,|IT| RAI NEWS 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3581
+#EXTINF:0,------- IT Primafila -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3873
+#EXTINF:0,|IT| SKY PRIMAFILA 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2839
+#EXTINF:0,|IT| SKY PRIMAFILA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2841
+#EXTINF:0,|IT| SKY PRIMAFILA 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2840
+#EXTINF:0,|IT| SKY PRIMAFILA 8
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2836
+#EXTINF:0,|IT| SKY PRIMAFILA 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2838
+#EXTINF:0,|IT| SKY PRIMAFILA 7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2837
+#EXTINF:0,|IT| SKY PRIMAFILA 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2801
+#EXTINF:0,|IT| SKY PRIMAFILA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2799
+#EXTINF:0,|IT| SKY PRIMAFILA 9
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2835
+#EXTINF:0,|IT| SKY PRIMAFILA 10
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2800
+#EXTINF:0,|IT| SKY PRIMAFILA 11
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2834
+#EXTINF:0,|IT| SKY PRIMAFILA 12
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2833
+#EXTINF:0,------- IT Bambini -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3870
+#EXTINF:0,|IT| FRISBEE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4294
+#EXTINF:0,|IT| CARTOONITO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2780
+#EXTINF:0,|IT| CARTOON NETWORK
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2844
+#EXTINF:0,|IT| DISNEY JUNIOR HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2781
+#EXTINF:0,|IT| DISNEY CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2899
+#EXTINF:0,|IT| DISNEY XD HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2845
+#EXTINF:0,|IT| RAI YOYO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2830
+#EXTINF:0,|IT| BOING
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2777
+#EXTINF:0,|IT| SUPER TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3583
+#EXTINF:0,|IT| SUPER J
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3921
+#EXTINF:0,|IT| MANGA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3930
+#EXTINF:0,|IT| K2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3919
+#EXTINF:0,|IT| NICK
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3912
+#EXTINF:0,------- IT Sports -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3869
+#EXTINF:0,|IT| SPORTITALIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3924
+#EXTINF:0,|IT| SUPERTENNIS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2813
+#EXTINF:0,|IT| SKY SPORT 24 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3110
+#EXTINF:0,|IT| SKY SPORT PLUS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3903
+#EXTINF:0,|IT| SKY SPORT F1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2876
+#EXTINF:0,|IT| PREMIUM EUROSPORT1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2852
+#EXTINF:0,|IT| PREMIUM EUROSPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2853
+#EXTINF:0,|IT| PREMIUM SPORT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2854
+#EXTINF:0,|IT| PREMIUM SPORT 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2887
+#EXTINF:0,|IT| FOX SPORTS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2785
+#EXTINF:0,|IT| SKY SPORT MOTO GP HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2811
+#EXTINF:0,|IT| RAI SPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2828
+#EXTINF:0,|IT| RAI SPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2827
+#EXTINF:0,|IT| SKY SPORT 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2786
+#EXTINF:0,|IT| SKY SPORT 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2881
+#EXTINF:0,|IT| SKY SPORT 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2890
+#EXTINF:0,|IT|  AUTO MOTO TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3907
+#EXTINF:0,|IT|  INTER CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2886
+#EXTINF:0,|IT|  JUVENTUS CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2882
+#EXTINF:0,|IT|  LAZIO CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2885
+#EXTINF:0,|IT|  ROMA CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2883
+#EXTINF:0,|IT|  MILAN CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2884
+#EXTINF:0,------- Intattenimento -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3877
+#EXTINF:0,|IT| AXN SCI FI
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3925
+#EXTINF:0,|IT| AXN HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2775
+#EXTINF:0,|IT| SKY ARTE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3918
+#EXTINF:0,|IT| CLASSICA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3920
+#EXTINF:0,|IT| DIOGENE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3923
+#EXTINF:0,|IT| LAEFFE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3922
+#EXTINF:0,|IT| REAL TIME
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2901
+#EXTINF:0,|IT| FOX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2784
+#EXTINF:0,|IT| SKY FOX COMEDY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2874
+#EXTINF:0,|IT| FOX ANIMATION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2869
+#EXTINF:0,|IT| SKY FOX CRIME
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2875
+#EXTINF:0,|IT| SKY FOX LIFE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2877
+#EXTINF:0,|IT| COMEDY CENTRAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3908
+#EXTINF:0,|IT| SKY ATLANTIC HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2861
+#EXTINF:0,|IT| GIALLO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2880
+#EXTINF:0,|IT| SKY UNO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2812
+#EXTINF:0,|IT| CIELO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2805
+#EXTINF:0,|IT| ALICE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2892
+#EXTINF:0,|IT| GAMBERO ROSSO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3909
+#EXTINF:0,------- IT Cinema -------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3874
+#EXTINF:0,|IT| SKY CINEMA 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2806
+#EXTINF:0,|IT| SKY CINEMA CLASSIC HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2807
+#EXTINF:0,|IT| SKY CINEMA CULT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2808
+#EXTINF:0,|IT| SKY CINEMA 24
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2862
+#EXTINF:0,|IT| SKY CINEMA COMEDY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2863
+#EXTINF:0,|IT| SKY CINEMA FAMILY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2864
+#EXTINF:0,|IT| SKY CINEMA HITS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2866
+#EXTINF:0,|IT| SKY CINEMA MAX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2865
+#EXTINF:0,|IT| SKY CINEMA PASSION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2860
+#EXTINF:0,----------- SPAIN FULLHD -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3359
+#EXTINF:0,|ES| ANTENA 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5434
+#EXTINF:0,|ES| BEIN SPORTS ESPANAA FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5417
+#EXTINF:0,|ES| COMEDY CENTRAL FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5426
+#EXTINF:0,|ES| CUATRO FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5433
+#EXTINF:0,|ES| HOLLYWOOD FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5424
+#EXTINF:0,|ES| LA 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5435
+#EXTINF:0,|ES| MOVISTAR DCINE FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5429
+#EXTINF:0,|ES| MOVISTAR XTRA FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5428
+#EXTINF:0,|ES| SYFY FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5423
+#EXTINF:0,|ES| TELECINCO FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5432
+#EXTINF:0,|ES| TNT FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5422
+#EXTINF:0,----------- BOUQUET ESPAGNE -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3273
+#EXTINF:0,|ES|  LA UNA 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3182
+#EXTINF:0,|ES|  LA DOS 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3183
+#EXTINF:0,|ES|  TV3 CATALONIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3589
+#EXTINF:0,|ES|  ANTENA 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3184
+#EXTINF:0,|ES|  CUATRO HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3277
+#EXTINF:0,|ES|  TELECINCO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3141
+#EXTINF:0,|ES|  LA SEXTA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3185
+#EXTINF:0,|ES|  TCM
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3253
+#EXTINF:0,|ES|  TVE 24H
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3242
+#EXTINF:0,|ES|  CANAL ORBE21
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3187
+#EXTINF:0,|ES|  TELEDEPORTE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3976
+#EXTINF:0,|ES|  ANDALUCIA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3974
+#EXTINF:0,|ES|  TV GALICIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3139
+#EXTINF:0,======== CINE ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3630
+#EXTINF:0,|ES|  PARAMOUNT CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4040
+#EXTINF:0,|ES|  MOVISTAR ACCION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3198
+#EXTINF:0,|ES|  MOVISTAR COMEDIA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3152
+#EXTINF:0,|ES|  MOVISTAR DCINE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3151
+#EXTINF:0,|ES|  MOVISTAR ESTRENOS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3190
+#EXTINF:0,|ES|  HOLLYWOOD HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3268
+#EXTINF:0,|ES|  MOVISTAR XTRA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3153
+#EXTINF:0,|ES|  TNT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3140
+#EXTINF:0,======== ENTRETENIMIENTO ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3634
+#EXTINF:0,|ES| ENERGY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3972
+#EXTINF:0,|ES| NOVA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3975
+#EXTINF:0,|ES| NEOX TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3927
+#EXTINF:0,|ES| AMC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3679
+#EXTINF:0,|ES| FOX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3194
+#EXTINF:0,|ES| FOX LIFE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3195
+#EXTINF:0,|ES| MOVISTAR SERIES HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3149
+#EXTINF:0,|ES| MOVISTAR SERIES EXTRA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3148
+#EXTINF:0,|ES| AXN HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3259
+#EXTINF:0,|ES| AXN WHITE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3260
+#EXTINF:0,|ES| SYFY HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3267
+#EXTINF:0,|ES| CALLE 13
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3197
+#EXTINF:0,|ES| COMEDY CENTRAL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3196
+#EXTINF:0,|ES| COSMO
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3236
+#EXTINF:0,|ES| CANAL+ COCINA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3186
+#EXTINF:0,|ES| CANAL+ TOROS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3189
+#EXTINF:0,======== DEPORTES ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3631
+#EXTINF:0,|ES| CANAL  GOL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3928
+#EXTINF:0,|ES| LIGA 123
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4044
+#EXTINF:0,|ES| CANAL LIGA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3191
+#EXTINF:0,|ES| MOVISTAR DEPORTES 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3155
+#EXTINF:0,|ES| MOVISTAR DEPORTES 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3154
+#EXTINF:0,|ES| CANAL GOL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3192
+#EXTINF:0,|ES| BEIN-SPORT SPAIN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3258
+#EXTINF:0,|ES| BEIN LA LIGA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3636
+#EXTINF:0,|ES| BEIN LIGA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3637
+#EXTINF:0,|ES| BEIN LIGA 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3638
+#EXTINF:0,|ES| LA LIGATV BAR HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3635
+#EXTINF:0,|ES| REAL MADRID  TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3143
+#EXTINF:0,|ES| BARCA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3255
+#EXTINF:0,|ES| MOVISTAR GOLF
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3639
+#EXTINF:0,|ES| MOVISTAR F1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3147
+#EXTINF:0,|ES| MOVISTAR FUTBOL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3150
+#EXTINF:0,|ES| MOVISTAR MOTO GP
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3146
+#EXTINF:0,|ES| EUROSPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3222
+#EXTINF:0,|ES| EUROSPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3221
+#EXTINF:0,|ES| FOX SPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3624
+#EXTINF:0,|ES| FOX SPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3625
+#EXTINF:0,|ES| ESPN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3622
+#EXTINF:0,|ES| ESPN 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3623
+#EXTINF:0,|ES| CANAL 26 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3585
+#EXTINF:0,----------- CULTURA Y DECOUVERT -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3965
+#EXTINF:0,|ES| VIAJAR
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3641
+#EXTINF:0,|ES| SUNDANCE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4042
+#EXTINF:0,|ES| NATIONAL GEOGRAPHIC HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3145
+#EXTINF:0,|ES| NATIONAL GEOGRAPHIC WILD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3144
+#EXTINF:0,|ES| DISCOVERY CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3214
+#EXTINF:0,|ES| DISCOVERY MAX
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4038
+#EXTINF:0,|ES| ODISEA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3265
+#EXTINF:0,|ES| CANAL DECASA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3193
+#EXTINF:0,|ES| A&E
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3239
+#EXTINF:0,|ES| CAZA Y PESCA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3215
+#EXTINF:0,|ES| CRIME & INVESTIGATION
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3212
+#EXTINF:0,|ES| MEGA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3587
+#EXTINF:0,|ES| HISTORIA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3929
+#EXTINF:0,|ES| TRECE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3588
+#EXTINF:0,======== NINOS ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3640
+#EXTINF:0,|ES| BABY TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4330
+#EXTINF:0,|ES| TVE CLAN
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3243
+#EXTINF:0,|ES| CLAN TVE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3973
+#EXTINF:0,|ES| CANAL PANDA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3188
+#EXTINF:0,|ES| DISNEY CHANNEL
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3247
+#EXTINF:0,|ES| DISNEY JUNIOR
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3966
+#EXTINF:0,|ES| DISNEY XD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3249
+#EXTINF:0,|ES| NICKELODEON
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3931
+#EXTINF:0,|ES| NICK JUNIOR
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3933
+#EXTINF:0,|ES| PANDA
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4043
+#EXTINF:0,|ES| BOING
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3246
+#EXTINF:0,========  Musica ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3648
+#EXTINF:0,|ES| DIVINITY
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4039
+#EXTINF:0,|ES| NON STOP POEPLE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3926
+#EXTINF:0,========Taquilla ========
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3819
+#EXTINF:0,|ES| TAQUILLA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3643
+#EXTINF:0,|ES| TAQUILLA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3644
+#EXTINF:0,|ES| TAQUILLA 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3645
+#EXTINF:0,|ES| TAQUILLA 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3646
+#EXTINF:0,|ES| TAQUILLA 5
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3132
+#EXTINF:0,|ES| TAQUILLA 6
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3647
+#EXTINF:0,|ES| TAQUILLA 7
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3134
+#EXTINF:0,|ES| TAQUILLA 8
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3135
+#EXTINF:0,|ES| TAQUILLA 9
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3136
+#EXTINF:0,|ES| TAQUILLA10
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3801
+#EXTINF:0,----------- SKY UK SPORT -----------
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4219
+#EXTINF:0,|UK| SKY SPORTS 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4256
+#EXTINF:0,|UK| SKY SPORTS 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4257
+#EXTINF:0,|UK| SKY SPORTS 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4258
+#EXTINF:0,|UK| SKY SPORTS 4 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4259
+#EXTINF:0,|UK| SKY SPORTS 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4260
+#EXTINF:0,|UK| AT THE RACES
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4170
+#EXTINF:0,|UK| BEIN SPORTS 11 (ENGLISH)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4156
+#EXTINF:0,|UK| BEIN SPORTS 12 (ENGLISH)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4155
+#EXTINF:0,|UK| BETFRED
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4167
+#EXTINF:0,|UK| BOX NATION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4178
+#EXTINF:0,|UK| BOX NATION SD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4177
+#EXTINF:0,|UK| BT SPORT 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4198
+#EXTINF:0,|UK| BT SPORT 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4199
+#EXTINF:0,|UK| BT SPORT 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4195
+#EXTINF:0,|UK| BT SPORT 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4196
+#EXTINF:0,|UK| BT SPORT 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4193
+#EXTINF:0,|UK| BT SPORT 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4194
+#EXTINF:0,|UK| BT SPORT ESPN FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4191
+#EXTINF:0,|UK| BT SPORT ESPN HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4192
+#EXTINF:0,|UK| BT SPORT EXTRA 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4225
+#EXTINF:0,|UK| BT SPORT EXTRA 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4224
+#EXTINF:0,|UK| BT SPORT EXTRA 3
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4223
+#EXTINF:0,|UK| BT SPORT EXTRA 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4222
+#EXTINF:0,|UK| CELTIC TV (LIVE MATCHES ONLY)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4147
+#EXTINF:0,|UK| CHELSEA TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4184
+#EXTINF:0,|UK| CORAL TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4166
+#EXTINF:0,|UK| DUBAI RACING
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4169
+#EXTINF:0,|UK| EIR SPORT 1
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4190
+#EXTINF:0,|UK| EIR SPORT 2
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4189
+#EXTINF:0,|UK| EUROSPORT 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4174
+#EXTINF:0,|UK| EUROSPORT 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4175
+#EXTINF:0,|UK| EUROSPORT 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4172
+#EXTINF:0,|UK| EUROSPORT 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4173
+#EXTINF:0,|UK| ITV BOX OFFICE ( PPV EVENTS ONLY )
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4146
+#EXTINF:0,|UK| LADBROKES TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4165
+#EXTINF:0,|UK| LIVERPOOL FC
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4186
+#EXTINF:0,|UK| LIVERPOOL FC TV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4185
+#EXTINF:0,|UK| MOTORS TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4179
+#EXTINF:0,|UK| PADDY POWER
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4164
+#EXTINF:0,|UK| PREMIER SPORTS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4182
+#EXTINF:0,|UK| RACING UK HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4171
+#EXTINF:0,|UK| RANGERS TV (LIVE MATCHES ONLY)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4183
+#EXTINF:0,|UK| SHEFFIELD STEELERS
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4163
+#EXTINF:0,|UK| SIS EUROPE
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4162
+#EXTINF:0,|UK| SKY SPORTS ACTION FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4204
+#EXTINF:0,|UK| SKY SPORTS ACTION HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4205
+#EXTINF:0,|UK| SKY SPORTS ARENA FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4202
+#EXTINF:0,|UK| SKY SPORTS ARENA HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4203
+#EXTINF:0,|UK| SKY SPORTS CRICKET  FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4206
+#EXTINF:0,|UK| SKY SPORTS CRICKET HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4207
+#EXTINF:0,|UK| SKY SPORTS DARTS FULLHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4220
+#EXTINF:0,|UK| SKY SPORTS F1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4180
+#EXTINF:0,|UK| SKY SPORTS F1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4181
+#EXTINF:0,|UK| SKY SPORTS FOOTBALL FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4211
+#EXTINF:0,|UK| SKY SPORTS FOOTBALL HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4212
+#EXTINF:0,|UK| SKY SPORTS GOLF FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4209
+#EXTINF:0,|UK| SKY SPORTS GOLF HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4210
+#EXTINF:0,|UK| SKY SPORTS MAIN EVENT FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4215
+#EXTINF:0,|UK| SKY SPORTS MAIN EVENT HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4216
+#EXTINF:0,|UK| SKY SPORTS MIX FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4200
+#EXTINF:0,|UK| SKY SPORTS MIX HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4201
+#EXTINF:0,|UK| SKY SPORTS NEWS FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4217
+#EXTINF:0,|UK| SKY SPORTS NEWS HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4218
+#EXTINF:0,|UK| SKY SPORTS PREM LG FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4213
+#EXTINF:0,|UK| SKY SPORTS PREMIER LEAGUE HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4214
+#EXTINF:0,|UK| SKYSPBOXOFF (PPV)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4145
+#EXTINF:0,|UK| SONY SIX SPORT
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4160
+#EXTINF:0,|UK| TSN 2 HD (3PM KICK OFFS)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4151
+#EXTINF:0,|UK| TSN 3 HD (3PM KICK OFFS)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4150
+#EXTINF:0,|UK| TSN 4 HD (3PM KICK OFFS)
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4149
+#EXTINF:0,|UK| UK:GINXESPORTSTV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4161
+#EXTINF:0,|UK| USA: FOX SPORTS 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4158
+#EXTINF:0,|UK| USA:FOX SPORTS 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4159
+#EXTINF:0,|UK| USA:FOX SPORTS 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4157
+#EXTINF:0,|UK| USA:NBC GOLF HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4208
+#EXTINF:0,|UK| USA:SPORT: TSN 4
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4154
+#EXTINF:0,|UK| USA:SPORTSNET WORLD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4153
+#EXTINF:0,|UK| USA:TSN 1 HD*
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4152
+#EXTINF:0,|UK| USA:TSN 5 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4148
+#EXTINF:0,|UK| USA:WWE NETWORK
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4176
+#EXTINF:0,|UK| WILLIAM HILL TV
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4168
+#EXTINF:0,|USA| NBA TV HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5376
+#EXTINF:0,|USA| NFL NETWORK HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5377
+#EXTINF:0,|USA| NHL NETWORK HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5378
+#EXTINF:0,|USA| ESPN 1 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5398
+#EXTINF:0,|USA| ESPN 2 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5399
+#EXTINF:0,|USA| ESPN 3 HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5400
+#EXTINF:0,|USA| ESPN DEPORTES HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5401
+#EXTINF:0,|USA| ESPN U HD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/5402
